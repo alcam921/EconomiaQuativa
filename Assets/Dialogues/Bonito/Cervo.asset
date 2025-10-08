@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Cervo
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "Seja bem-vindo a Bonito! Se voc\xEA gosta de aventura, precisa conhecer
+      a Trilha Boiadeira. \xC9 um percurso off-road exclusivo para quadriciclos,
+      rodeado por uma mata preservada incr\xEDvel.\r\n"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Parece emocionante! O que torna essa trilha t\xE3o especial?\r\n"
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "Al\xE9m da emo\xE7\xE3o, a trilha oferece um contato direto com o cerrado
+      sul-mato-grossense. Voc\xEA vai passar por terra batida, trechos alagados,
+      pedras e muita vegeta\xE7\xE3o. \xC9 uma verdadeira jornada pela natureza!\r\n"
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "E tem um detalhe legal: o nome \u201CBoiadeira\u201D vem da antiga estrada
+      usada pelos boiadeiros da regi\xE3o, trazendo um toque de hist\xF3ria para
+      o passeio.\r\n"
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "Agora que voc\xEA j\xE1 conhece essa aventura, que tal testar sua mem\xF3ria?
+      Vamos jogar o jogo da mem\xF3ria."
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

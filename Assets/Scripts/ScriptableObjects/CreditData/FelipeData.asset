@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: FelipeData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: 5432759077780121092, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: -4415028553004447826, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: -4529473823168977640, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: -2035962250252564021, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: -3022905280934687506, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: -4280501070897706855, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: -2932237224679602018, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: 7565392240879267189, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: 1845659595589781042, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  - {fileID: 2257244785715282838, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+  removingMaskImages:
+  - {fileID: 1604712858599689899, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -4529941166094033581, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 2481377800717742114, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 5355108930912291942, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 6582536005119574456, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -3383333121868194796, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 2671636222180479788, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 2272371976620213824, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -7437157339306844534, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 2360037682869030006, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -5663152197114570966, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -7000777881249724590, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -6771957031601942087, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 7240918376939433554, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 3423012024028086886, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 5969622378318364369, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: 4954914122029270600, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -549295942358678675, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -125178098753435643, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -2292956911011623963, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -3688113986152057719, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  - {fileID: -6641488224538983043, guid: a05b5e7d5660df64389127ca0ce633f1, type: 3}
+  studentName: "Felipe D\xF4za"
+  studentRole: "Professor da F\xE1brica de Jogos"
+  hasDesc: 1
+  studentDescription: "Orientou principalmente na parte artistica e interface do
+    jogo. Sinceros agradecimentos por ele n\xE3o ter desistido da turma ap\xF3s ver
+    as primeiras artes do quati."
+  studentImage: {fileID: 21300000, guid: 8d9250b7c01a83946918103ba33a8803, type: 3}
+  cardImage: {fileID: -5756424762294013053, guid: 943820cc5234b8b4f8a36c6e0e5be7d6, type: 3}
+  linkedinURL: https://www.linkedin.com/in/felipe-doza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  gitURL: https://github.com/FelipeDoza
+  instaURL: https://www.instagram.com/felipe_dozaa?igsh=NjJqbWx6emwyN2Zw

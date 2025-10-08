@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piranha
+  - PecaC
+  - Carta
+  - Impostor
+  - CasaArtesao
+  - zoom
+  - Clouds
+  - Araras
+  - Interactable
+  - BioParque
+  - Mercadao
+  - Concha
+  - Npc
+  - miss
+  - VisitPoint
+  - Pointer
+  - Joystick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: base
+    uniqueID: 881797689
+    locked: 0
+  - name: agua
+    uniqueID: 294147945
+    locked: 0
+  - name: casinhas
+    uniqueID: 927187513
+    locked: 0
+  - name: interior-casinhas
+    uniqueID: 2377753679
+    locked: 0
+  - name: porta-casinhas
+    uniqueID: 407236625
+    locked: 0
+  - name: decor 1
+    uniqueID: 2320292733
+    locked: 0
+  - name: arvores
+    uniqueID: 254669905
+    locked: 0
+  - name: limites 0
+    uniqueID: 1939019077
+    locked: 0
+  - name: decor 2
+    uniqueID: 3646722933
+    locked: 0
+  - name: telhados
+    uniqueID: 3944900559
+    locked: 0
+  - name: monumentos
+    uniqueID: 578553723
+    locked: 0
+  - name: predios
+    uniqueID: 3469350713
+    locked: 0
+  - name: predio alto
+    uniqueID: 3980896821
+    locked: 0
+  - name: Personagens
+    uniqueID: 3364635093
+    locked: 0
+  - name: limites 1
+    uniqueID: 3266845697
+    locked: 0
+  - name: limites 2
+    uniqueID: 3927384543
+    locked: 0
+  - name: foreground
+    uniqueID: 1392980201
+    locked: 0
+  - name: arvore fg
+    uniqueID: 3679635759
+    locked: 0
+  - name: UIObstacle
+    uniqueID: 2855448897
+    locked: 0
+  - name: LayerPointer
+    uniqueID: 1539570923
+    locked: 0
+  - name: Text
+    uniqueID: 3118987143
+    locked: 0

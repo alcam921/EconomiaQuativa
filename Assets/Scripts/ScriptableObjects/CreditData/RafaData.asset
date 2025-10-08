@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: RafaData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: -2146465534179726803, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: -4166628156853861549, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: 1464010272118659477, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: -1528552650726868200, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: -8291915390983506785, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: 3064364145291992765, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: 3026168696187424770, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: -4071180203215539972, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: -2895476825087500600, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  - {fileID: 3906790715995432324, guid: f3f9dd4e21ef3754d9ebf8b16cfc79e1, type: 3}
+  removingMaskImages:
+  - {fileID: -7572330332673191266, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: 4366974048447907236, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -8042278228614971201, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: 7867927972023293142, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -5178973615334243349, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -2825988725186660199, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -7594341873794197187, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -7598398263736698378, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -4532742257138619739, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -9194757368885890949, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -2383460637104215703, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: 3525214682202549501, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -336105171116707636, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -7232706985581563782, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -5582554152500755443, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: 4255619659812217154, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: 8621750781155106410, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -8793396962724231553, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: 2556858964247645487, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -7899714318827118359, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -7905864697812858227, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  - {fileID: -7488951967080001494, guid: c0d949b7cd6a4d14ca7e24b68e12381d, type: 3}
+  studentName: Rafael Orfeu
+  studentRole: 'Artista 2D e Desenvolvedor. '
+  hasDesc: 1
+  studentDescription: "Colocou, aproximadamente, 400 \xE1rvores em Bonito pois n\xE3o
+    era ele que iria colocar a colis\xE3o em nenhuma delas."
+  studentImage: {fileID: 21300000, guid: 91b9fca2de58105468604b67fb625c0b, type: 3}
+  cardImage: {fileID: -1372893020201355784, guid: 004f3ed886329ce42aee0f4021d73c93, type: 3}
+  linkedinURL: https://www.linkedin.com/in/rafael-soares-069351308
+  gitURL: https://github.com/oorpheas
+  instaURL: https://www.instagram.com/awidfc

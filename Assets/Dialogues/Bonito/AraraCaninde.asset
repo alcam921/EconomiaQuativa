@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: AraraCaninde
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Seja bem-vindo a Bonito! Voc\xEA est\xE1 na Pra\xE7a da Liberdade, ou
+      como muitos conhecem, Pra\xE7a das Piraputangas. Repare nestas esculturas gigantes
+      de peixes piraputanga, um s\xEDmbolo t\xEDpico da nossa regi\xE3o.\r\n"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: 'Uau, que impressionante! Quem criou essas esculturas?
+
+'
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: " Elas foram feitas pelo artista Cleir \xC1vila, que nasceu aqui no Mato
+      Grosso do Sul.\r\n A pra\xE7a tamb\xE9m \xE9 rodeada por pousadas e hot\xE9is,
+      facilitando o acesso \xE0s belezas naturais e aventuras da cidade. E voc\xEA
+      sabia que aqui perto tamb\xE9m acontece o Festival de Inverno de Bonito?"
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Criado em 1999, o festival re\xFAne v\xE1rias express\xF5es art\xEDsticas
+      e j\xE1 \xE9 um evento tradicional que atrai turistas de todo o pa\xEDs.\r\n"
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Agora que voc\xEA conhece a Pra\xE7a da Liberdade, que tal montar um quebra-cabe\xE7a
+      com imagem desse lugar incr\xEDvel? Vamos ver se consegue encaixar todas as
+      pe\xE7as!\r\n"
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

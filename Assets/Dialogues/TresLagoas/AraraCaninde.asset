@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: AraraCaninde
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Bem-vindo \xE0 Festa do Folclore de Tr\xEAs Lagoas! Voc\xEA sabia que
+      ela nasceu l\xE1 em 1983, idealizada pelo ex-prefeito Jos\xE9 Lopes?\r\n"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Nossa, n\xE3o sabia! Ent\xE3o j\xE1 tem bastante hist\xF3ria..."
+    skip: 0
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Sim! No come\xE7o, a festa tinha um car\xE1ter educativo, acontecendo
+      principalmente nas escolas. Com o tempo, foi crescendo e se transformou nesse
+      grande evento que voc\xEA v\xEA hoje, sempre valorizando o resgate da nossa
+      cultura popular.\r\n"
+    skip: 0
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Aqui voc\xEA vai encontrar dan\xE7as, m\xFAsicas, artesanato e muita tradi\xE7\xE3o
+      que mant\xE9m viva a identidade do nosso povo."
+    skip: 0
+  - character:
+      characterName: "Arara Canind\xE9"
+      characterIcon: {fileID: 21300000, guid: 82bb2337913602d409db6e81f20def03, type: 3}
+    line: "Agora que voc\xEA j\xE1 conhece um pouco dessa hist\xF3ria, que tal um
+      desafio? Vamos jogar um desafio chamado \u201COnde est\xE1 o Quati\u201D e
+      ver se voc\xEA consegue encontrar o Quati no meio de outros animais!"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

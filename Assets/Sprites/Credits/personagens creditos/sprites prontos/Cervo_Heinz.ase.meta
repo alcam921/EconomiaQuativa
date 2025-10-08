@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 5472dec442f940f4487086223987b94f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332713953217
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Cervo_Heinz_Frame_0
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 262
+      width: 28
+      height: 58
+    spriteID: 849c38a847c99ef46959c6bf0cf9aa1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 262}
+  - name: Cervo_Heinz_Frame_1
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 328
+      width: 28
+      height: 58
+    spriteID: b10ca137a59c7b743bf24debdbfdd427
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 328}
+  - name: Cervo_Heinz_Frame_2
+    originalName: 
+    pivot: {x: 0.4333333, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 62
+      width: 30
+      height: 58
+    spriteID: 9f16c0264bfe39b429dd863b10a86fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 62}
+  - name: Cervo_Heinz_Frame_3
+    originalName: 
+    pivot: {x: 0.41935483, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 197
+      width: 31
+      height: 58
+    spriteID: 6ae873c84fe063d4eaf6b215d060d3fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 197}
+  - name: Cervo_Heinz_Frame_4
+    originalName: 
+    pivot: {x: 0.41935483, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 263
+      width: 31
+      height: 58
+    spriteID: 2396c0b3fdc2fe04698b08d271f22140
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 263}
+  - name: Cervo_Heinz_Frame_5
+    originalName: 
+    pivot: {x: 0.4333333, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 128
+      width: 30
+      height: 58
+    spriteID: eae3bb00f6193964cb53cdc9e3dfd1bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 128}
+  - name: Cervo_Heinz_Frame_6
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 394
+      width: 28
+      height: 58
+    spriteID: d94e70e3f27bef841a0bcefa1711c8f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 394}
+  - name: Cervo_Heinz_Frame_7
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 4
+      width: 28
+      height: 58
+    spriteID: 9d5be11d2a924524bacc82a25e0dfe3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 4}
+  - name: Cervo_Heinz_Frame_8
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 70
+      width: 28
+      height: 58
+    spriteID: 1fa42d170c2252944a44350d3d4ab2b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 70}
+  - name: Cervo_Heinz_Frame_9
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 136
+      width: 28
+      height: 58
+    spriteID: f1f2b3bff27fe9c4bab60b32d81bfac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 136}
+  - name: Cervo_Heinz_Frame_10
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 194
+      width: 28
+      height: 60
+    spriteID: 3bffbfd6fe72c8547a673a04ee0fce8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 194}
+  - name: Cervo_Heinz_Frame_11
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.3968254}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 401
+      width: 28
+      height: 63
+    spriteID: b709fe8efa9014246822ef79155c48d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 401}
+  - name: Cervo_Heinz_Frame_12
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.390625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 329
+      width: 28
+      height: 64
+    spriteID: af25da9f93f43894e803f563c20956ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 329}
+  - name: Cervo_Heinz_Frame_13
+    originalName: 
+    pivot: {x: 0.39999998, y: 0.3968254}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 30
+      height: 63
+    spriteID: de9def90be5e9404d9facdb3d902de03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: Cervo_Heinz_Frame_14
+    originalName: 
+    pivot: {x: 0.3243243, y: 0.4464286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 37
+      height: 56
+    spriteID: 7e779b23eefeafa4bacb695debcc4d72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Cervo_Heinz_Frame_15
+    originalName: 
+    pivot: {x: 0.3333333, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 36
+      height: 50
+    spriteID: 2a64c7a0c23d4b2468adf9ebcc938f09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
+  - name: Cervo_Heinz_Frame_16
+    originalName: 
+    pivot: {x: 0.34285712, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 35
+      height: 50
+    spriteID: 6a012d6c88c35954ebf893a771abd830
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 4}
+  - name: Cervo_Heinz_Frame_17
+    originalName: 
+    pivot: {x: 0.37499997, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 4
+      width: 32
+      height: 50
+    spriteID: 210bba64d9b1daf4eb40d8d5fa7dcb7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 4}
+  - name: Cervo_Heinz_Frame_18
+    originalName: 
+    pivot: {x: 0.4137931, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 62
+      width: 29
+      height: 50
+    spriteID: 4f0aebfebabef874ea1c4dc1b9f527cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 62}
+  - name: Cervo_Heinz_Frame_19
+    originalName: 
+    pivot: {x: 0.62068963, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 120
+      width: 29
+      height: 50
+    spriteID: e15e52d82a507f348925d36806268de6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 120}
+  - name: Cervo_Heinz_Frame_20
+    originalName: 
+    pivot: {x: 0.62068963, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 178
+      width: 29
+      height: 50
+    spriteID: 3011fae0cbd8e1c4d86a19a263b7eeee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 178}
+  - name: Cervo_Heinz_Frame_21
+    originalName: 
+    pivot: {x: 0.62068963, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 236
+      width: 29
+      height: 50
+    spriteID: dfd87a03ff5f5484a82dda2ee33dba07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 236}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -406934686
+    name: Cervo_Heinz
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cervo_Heinz_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 58
+      spriteId: 849c38a847c99ef46959c6bf0cf9aa1b
+    - name: Cervo_Heinz_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 58
+      spriteId: b10ca137a59c7b743bf24debdbfdd427
+    - name: Cervo_Heinz_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 22
+        y: 15
+        width: 30
+        height: 58
+      spriteId: 9f16c0264bfe39b429dd863b10a86fae
+    - name: Cervo_Heinz_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 22
+        y: 15
+        width: 31
+        height: 58
+      spriteId: 6ae873c84fe063d4eaf6b215d060d3fa
+    - name: Cervo_Heinz_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 22
+        y: 15
+        width: 31
+        height: 58
+      spriteId: 2396c0b3fdc2fe04698b08d271f22140
+    - name: Cervo_Heinz_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 22
+        y: 15
+        width: 30
+        height: 58
+      spriteId: eae3bb00f6193964cb53cdc9e3dfd1bb
+    - name: Cervo_Heinz_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 58
+      spriteId: d94e70e3f27bef841a0bcefa1711c8f0
+    - name: Cervo_Heinz_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 58
+      spriteId: 9d5be11d2a924524bacc82a25e0dfe3a
+    - name: Cervo_Heinz_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 58
+      spriteId: 1fa42d170c2252944a44350d3d4ab2b7
+    - name: Cervo_Heinz_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 58
+      spriteId: f1f2b3bff27fe9c4bab60b32d81bfac7
+    - name: Cervo_Heinz_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 60
+      spriteId: 3bffbfd6fe72c8547a673a04ee0fce8d
+    - name: Cervo_Heinz_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 63
+      spriteId: b709fe8efa9014246822ef79155c48d3
+    - name: Cervo_Heinz_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 22
+        y: 15
+        width: 28
+        height: 64
+      spriteId: af25da9f93f43894e803f563c20956ad
+    - name: Cervo_Heinz_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 23
+        y: 15
+        width: 30
+        height: 63
+      spriteId: de9def90be5e9404d9facdb3d902de03
+    - name: Cervo_Heinz_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 23
+        y: 15
+        width: 37
+        height: 56
+      spriteId: 7e779b23eefeafa4bacb695debcc4d72
+    - name: Cervo_Heinz_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 23
+        y: 15
+        width: 36
+        height: 50
+      spriteId: 2a64c7a0c23d4b2468adf9ebcc938f09
+    - name: Cervo_Heinz_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 23
+        y: 15
+        width: 35
+        height: 50
+      spriteId: 6a012d6c88c35954ebf893a771abd830
+    - name: Cervo_Heinz_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 23
+        y: 15
+        width: 32
+        height: 50
+      spriteId: 210bba64d9b1daf4eb40d8d5fa7dcb7b
+    - name: Cervo_Heinz_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 23
+        y: 15
+        width: 29
+        height: 50
+      spriteId: 4f0aebfebabef874ea1c4dc1b9f527cd
+    - name: Cervo_Heinz_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 17
+        y: 15
+        width: 29
+        height: 50
+      spriteId: e15e52d82a507f348925d36806268de6
+    - name: Cervo_Heinz_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 17
+        y: 15
+        width: 29
+        height: 50
+      spriteId: 3011fae0cbd8e1c4d86a19a263b7eeee
+    - name: Cervo_Heinz_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 17
+        y: 15
+        width: 29
+        height: 50
+      spriteId: dfd87a03ff5f5484a82dda2ee33dba07
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 70, y: 80}

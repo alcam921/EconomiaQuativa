@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Cobra
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: "Seja Bem-vindo, aqui n\xF3s mostramos ao mundo as maravilhas do nosso
+      bioma, o Pantanal."
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Uau, que lugar bonito! A arquitetura \xE9 impressionante!"
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: "\xC9 sim!, Este espa\xE7o foi criado para proteger e divulgar a biodiversidade
+      do Pantanal."
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: "S\xE3o mais de 450 esp\xE9cies de animais aqu\xE1ticos, como peixes, r\xE9pteis
+      e at\xE9 alguns mam\xEDferos."
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: "Al\xE9m de aqu\xE1rio, o Bioparque \xE9 um centro de educa\xE7\xE3o e
+      pesquisa, comprometido com a conserva\xE7\xE3o da natureza e o futuro sustent\xE1vel
+      da regi\xE3o."
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: "Aqui voc\xEA vai conhecer animais incr\xEDveis como a ariranha, o jacar\xE9,
+      sucuri, pirarucu o pacu e muito mais!"
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: "Cada um tem um papel no equil\xEDbrio da vida. Vamos aprender juntos como
+      proteg\xEA-los!"
+  - character:
+      characterName: Sucuri Gaby
+      characterIcon: {fileID: -1552807065223446723, guid: 9ff9bd8ba0ab0fe408d615a7988d803b, type: 3}
+    line: Ah, e temos um jogo especial sobre o Bioparque! Venha jogar com a gente!
+  adjustCharacterIcon: {x: 150, y: -143, z: 0}

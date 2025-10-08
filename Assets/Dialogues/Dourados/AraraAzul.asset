@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: AraraAzul
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Bem-vindo Quati! Vejo que voc\xEA chegou ao nosso Museu Hist\xF3rico\u2026
+      preparado pra conhecer um pedacinho de Dourados?"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: Oi! Sim, fiquei curioso. O que tem aqui?
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Aqui guardamos hist\xF3rias vivas! Esse museu foi criado em 1977, sabia?
+      Tudo come\xE7ou com entrevistas de pioneiros e doa\xE7\xF5es da pr\xF3pria
+      popula\xE7\xE3o."
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Foram doados fog\xE3o \xE0 lenha, m\xE1quina de escrever, documentos raros,
+      at\xE9 moeda estrangeira que confundiu um concurso da \xE9poca. \xC9 como viajar
+      no tempo!"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Que demais! Ent\xE3o tudo aqui tem liga\xE7\xE3o direta com os moradores?\r\n"
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Exatamente! Isso mostra como a nossa gente valoriza a pr\xF3pria hist\xF3ria.
+      E \xE9 por isso que o museu continua."
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Agora que voc\xEA j\xE1 conheceu tantos lugares especiais da nossa cidade,
+      temos um desafio final: um quiz sobre os pontos tur\xEDsticos que voc\xEA visitou
+      em Dourados! Preparado?\r\n"
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

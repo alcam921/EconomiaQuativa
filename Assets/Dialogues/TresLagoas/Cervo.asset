@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Cervo
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "Bem-vindo a Tr\xEAs Lagoas! Voc\xEA j\xE1 conhece um pouco da hist\xF3ria
+      daqui?"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "N\xE3o muito, estou chegando agora."
+    skip: 0
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "Este \xE9 o balne\xE1rio municipal. Ele tem uma liga\xE7\xE3o direta com
+      a origem da cidade. Tudo come\xE7ou em 1909, quando engenheiros montaram um
+      acampamento \xE0s margens da Lagoa Maior.\r\n"
+    skip: 0
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "A Lagoa Maior \xE9 a principal lagoa da cidade e deu nome a Tr\xEAs Lagoas.
+      Ao redor dela, nasceu o primeiro bairro, o Santa Luzia, que foi o ponto de
+      partida para o crescimento de toda a regi\xE3o."
+    skip: 0
+  - character:
+      characterName: Cervo
+      characterIcon: {fileID: -2947384271187331488, guid: 9023e9eeaf5dfaa40ae9ed0c9840109c, type: 3}
+    line: "Agora que voc\xEA conhece o Balne\xE1rio Municipal, que tal montar um
+      quebra-cabe\xE7a com imagem desse lugar incr\xEDvel? Vamos ver se consegue
+      encaixar todas as pe\xE7as!"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

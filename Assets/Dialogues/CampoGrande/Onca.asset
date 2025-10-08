@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Onca
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "Bem-vindo \xE0 Expogrande, Quati! Que bom te ver por aqui!"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "O que est\xE1 acontecendo aqui?!"
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "Haha! Isso aqui \xE9 Campo Grande em festa!"
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "A Expogrande \xE9 uma das maiores exposi\xE7\xF5es agropecu\xE1rias do
+      Brasil \u2014 cheia de rodeios, competi\xE7\xF5es equestres, shows, comidas
+      t\xEDpicas e muito mais!"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Uau! Parece at\xE9 outro mundo... me parece incr\xEDvel!"
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "\xC9 isso mesmo! A cada canto tem uma surpresa."
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "A Expogrande \xE9 onde a cidade vira fazenda, e a fazenda vira espet\xE1culo!"
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "E n\xE3o \xE9 s\xF3 aqui que Campo Grande brilha, viu?"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "S\xE9rio? Tem mais coisa pra ver por aqui?"
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "Campo Grande \xE9 diversidade pura!"
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "E tudo isso faz parte do cora\xE7\xE3o do Mato Grosso do Sul."
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "Seja muito bem-vindo, Quati. A Expogrande tamb\xE9m \xE9 sua agora."
+  - character:
+      characterName: "On\xE7a Pintada"
+      characterIcon: {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+    line: "Vai l\xE1, curte tudo com o cora\xE7\xE3o aberto."
+  adjustCharacterIcon: {x: 0, y: -143, z: 0}

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: ecf809a3123bd0f4491d5e73e555b237
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638936552786435939
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Poeira_3_Frame_0
+    originalName: 
+    pivot: {x: 1.6999999, y: 2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 10
+      height: 7
+    spriteID: 6c59b211779ab3c4bb0471e9edae9266
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: Poeira_3_Frame_1
+    originalName: 
+    pivot: {x: 1.7272727, y: 2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 4
+      width: 11
+      height: 8
+    spriteID: e126d58fd0dd8bc4692523f61b456e9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 4}
+  - name: Poeira_3_Frame_2
+    originalName: 
+    pivot: {x: 2.1, y: 1.8181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 10
+      height: 11
+    spriteID: cd7dd6e604df91d449e544fe6345bbd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Poeira_3_Frame_3
+    originalName: 
+    pivot: {x: 2.625, y: 1.8181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 23
+      width: 8
+      height: 11
+    spriteID: 46de5a82a0c65af4caac67ba02a224e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 23}
+  - name: Poeira_3_Frame_4
+    originalName: 
+    pivot: {x: 3.5, y: 1.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 20
+      width: 6
+      height: 10
+    spriteID: 20599b80f79c372409f143dec1eae911
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 20}
+  - name: Poeira_3_Frame_5
+    originalName: 
+    pivot: {x: 3.5, y: 1.8888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 4
+      width: 6
+      height: 9
+    spriteID: 2bdedda211bcac94abee7675b55a1d49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 4}
+  - name: Poeira_3_Frame_6
+    originalName: 
+    pivot: {x: 3, y: 1.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 38
+      width: 7
+      height: 8
+    spriteID: d02daeb25c2bb7a44a7408c9adab9986
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 38}
+  - name: Poeira_3_Frame_7
+    originalName: 
+    pivot: {x: 3.1666667, y: 2.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 54
+      width: 6
+      height: 5
+    spriteID: d92aef6902cc4cb419db49fcfb4dd929
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 54}
+  - name: Poeira_3_Frame_8
+    originalName: 
+    pivot: {x: 3.8, y: 2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 21
+      width: 5
+      height: 4
+    spriteID: 4bc4a4c583e006d4fb6b18e05af934ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 21}
+  - name: Poeira_3_Frame_9
+    originalName: 
+    pivot: {x: 5.666667, y: 3.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 57
+      width: 3
+      height: 3
+    spriteID: 24b3bdb1efd6e4244bcb289018bb7dd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 57}
+  - name: Poeira_3_Frame_10
+    originalName: 
+    pivot: {x: 5.666667, y: 5.9999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 33
+      width: 3
+      height: 2
+    spriteID: 97e12f2537af9f541b4895146a5c2261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 33}
+  - name: Poeira_3_Frame_11
+    originalName: 
+    pivot: {x: 8.5, y: 5.9999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 43
+      width: 2
+      height: 2
+    spriteID: c8c817a1639611c4c9c873cca7d22193
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 43}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 50838250
+    name: Poeira_3
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Poeira_3_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 1
+        width: 10
+        height: 7
+      spriteId: 6c59b211779ab3c4bb0471e9edae9266
+    - name: Poeira_3_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 2
+        y: 1
+        width: 11
+        height: 8
+      spriteId: e126d58fd0dd8bc4692523f61b456e9b
+    - name: Poeira_3_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 1
+        width: 10
+        height: 11
+      spriteId: cd7dd6e604df91d449e544fe6345bbd6
+    - name: Poeira_3_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 1
+        width: 8
+        height: 11
+      spriteId: 46de5a82a0c65af4caac67ba02a224e5
+    - name: Poeira_3_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 3
+        width: 6
+        height: 10
+      spriteId: 20599b80f79c372409f143dec1eae911
+    - name: Poeira_3_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 4
+        width: 6
+        height: 9
+      spriteId: 2bdedda211bcac94abee7675b55a1d49
+    - name: Poeira_3_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 6
+        width: 7
+        height: 8
+      spriteId: d02daeb25c2bb7a44a7408c9adab9986
+    - name: Poeira_3_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 2
+        y: 8
+        width: 6
+        height: 5
+      spriteId: d92aef6902cc4cb419db49fcfb4dd929
+    - name: Poeira_3_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 2
+        y: 9
+        width: 5
+        height: 4
+      spriteId: 4bc4a4c583e006d4fb6b18e05af934ca
+    - name: Poeira_3_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 4
+        y: 9
+        width: 3
+        height: 3
+      spriteId: 24b3bdb1efd6e4244bcb289018bb7dd6
+    - name: Poeira_3_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 9
+        width: 3
+        height: 2
+      spriteId: 97e12f2537af9f541b4895146a5c2261
+    - name: Poeira_3_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 4
+        y: 9
+        width: 2
+        height: 2
+      spriteId: c8c817a1639611c4c9c873cca7d22193
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 42, y: 42}

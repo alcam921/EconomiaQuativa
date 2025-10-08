@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: LoboGuara
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Ol\xE1,seja bem-vindo a Dourados! Vejo que est\xE1 curioso sobre a cidade\u2026
+      j\xE1 conhece a nossa capela?"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Ainda n\xE3o! Vi de longe e achei bonita. Tem muita hist\xF3ria?"
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Muita! Essa \xE9 a nossa primeira capela. A constru\xE7\xE3o come\xE7ou
+      em junho de 1925 e foi finalizada no dia 8 de dezembro do mesmo ano. A inaugura\xE7\xE3o
+      foi marcada por uma linda prociss\xE3o que trouxe a imagem de Nossa Senhora
+      Imaculada Concei\xE7\xE3o at\xE9 aqui.\r\n"
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Foi doada pelo Major Afonso de Oliveira Mello, direto da Fran\xE7a! E
+      mais tarde, em 3 de outubro de 1935, a par\xF3quia foi oficialmente fundada
+      pelo bispo de Corumb\xE1, Dom Vicente \r\n"
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Agora que voc\xEA conhece um pouco da nossa hist\xF3ria, que tal montar
+      um quebra-cabe\xE7a com imagens que representam a cidade?\r\n Vamos ver se
+      consegue encaixar todas as pe\xE7as no lugar certo!\r\r\n"
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

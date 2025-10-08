@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: ChorinhoData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: -338895053295403748, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: 7241572860913985301, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: 964466975008952168, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: -3864261367512636171, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: 2861499459520706964, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: -2453261552046479614, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: 519762809759698378, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: 1588283376822213145, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: -342018728521154011, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  - {fileID: -9194149352053033284, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+  removingMaskImages:
+  - {fileID: -7660998036044558769, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -5078511775729946674, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -7944344369484545567, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -6847708926476465855, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: 1018619884477050279, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: 2572729322819732580, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -4354742532519635945, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -2999840261666156877, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: 7381496121664594870, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: 2762501424381779227, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -2692781674255762550, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: 3161343997063014543, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -745697461965854800, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -3575916429820246025, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: 2745530867227769424, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -8966492847170673556, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  - {fileID: -7212884766246381362, guid: 4f8e47e77df688f4bbcc2ce854e6e6bc, type: 3}
+  studentName: Herickson Festi
+  studentRole: "M\xFAsico e Desenvolvedor"
+  hasDesc: 1
+  studentDescription: "M\xFAsico e Desenvolvedor. \nMais Conhecido como Xorinho.\nNunca
+    pergunte \xE0 ele qual o som da arara, por favor."
+  studentImage: {fileID: 21300000, guid: 79713ddd4d4696540bb8ac16672f5368, type: 3}
+  cardImage: {fileID: -5217628443810192968, guid: 537d7c5bf3cfd1643aefd5df08596981, type: 3}
+  linkedinURL: https://www.linkedin.com/in/herickson-moacyr-hfesti-77a74b373?trk=contact-info
+  gitURL: https://github.com/Herickson2
+  instaURL: https://www.instagram.com/herickson1503festi?igsh=MXVmdHhiaXR6emliZw==

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Capivara
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Ol\xE1, seja bem-vindo a Campo Grande! Percebi que voc\xEA \xE9 novo por
+      aqui, certo?"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Oi! Sim, acabei de chegar e ainda n\xE3o conhe\xE7o nada da cidade."
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Ah, fica tranquilo, eu vou te ajudar! Nossa cidade \xE9 cheia de surpresas,
+      cultura e aventuras. Mas antes de tudo, deixa eu te mostrar algo muito \xFAtil\u2026"
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "T\xE1 vendo aquele \xEDcone de celular no canto da tela? Ele vai ser seu
+      melhor amigo por aqui!"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Celular? Isso \xE9 bem moderno, hein!"
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: Sim!!
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Esses pontos no mapa indicam lugares especiais onde voc\xEA pode interagir
+      \u2014 eles tem varias curiosidades e at\xE9 desafios para completar!\r"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: Legal! E o que mais ele faz?
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Se quiser visitar algum ponto tur\xEDstico espec\xEDfico, \xE9 s\xF3 clicar
+      nele e selecionar a op\xE7\xE3o \"Mostrar no Mapa\" no celular."
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Assim que voc\xEA escolhe o destino, aparece uma seta guia na tela, mostrando
+      a dire\xE7\xE3o exata. "
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Com ela, voc\xEA n\xE3o se perde nem nos cantinhos mais escondidos da
+      cidade!"
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: "Para poder se movimentar por todo o mapa, voc\xEA tem um joystick localizado
+      no canto esquerdo da sua telinha."
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Uau, j\xE1 quero explorar tudo! Por onde eu come\xE7o?"
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: 'Hehe, isso eu deixo contigo! '
+  - character:
+      characterName: Capivara
+      characterIcon: {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+    line: Abre o celular, escolhe seu destino e boa aventura
+  adjustCharacterIcon: {x: 0, y: -143, z: 0}

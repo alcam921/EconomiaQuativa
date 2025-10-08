@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 9e28ca06a4bf38543889205eece127ca
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638935623107824624
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Cobra_Chefe_idle_Frame_0
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 290
+      width: 76
+      height: 62
+    spriteID: 762ab99b65de87c469c119969ce8a70e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 290}
+  - name: Cobra_Chefe_idle_Frame_1
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 360
+      width: 76
+      height: 62
+    spriteID: f22ac1c062f6e40439273b34e460bab4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 360}
+  - name: Cobra_Chefe_idle_Frame_2
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 430
+      width: 76
+      height: 62
+    spriteID: 46d50684b6477694689a303d44301c6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 430}
+  - name: Cobra_Chefe_idle_Frame_3
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 4
+      width: 76
+      height: 62
+    spriteID: 61c1ac3da05fd8a43abe078b0cfbf7f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 4}
+  - name: Cobra_Chefe_idle_Frame_4
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.4603175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 219
+      width: 76
+      height: 63
+    spriteID: 266fc950f1cec2041b0cb41252c7f844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 219}
+  - name: Cobra_Chefe_idle_Frame_5
+    originalName: 
+    pivot: {x: 0.5064935, y: 0.453125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 77
+      height: 64
+    spriteID: 0a2459899e2ed0843ba6cf3f36631720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Cobra_Chefe_idle_Frame_6
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.453125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 76
+      height: 64
+    spriteID: 189585fc293a6464ba1ac5cc89565f5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: Cobra_Chefe_idle_Frame_7
+    originalName: 
+    pivot: {x: 0.5064935, y: 0.4603175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 148
+      width: 77
+      height: 63
+    spriteID: 2b3172b9af0bd0a40b1010d95e3981f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 148}
+  - name: Cobra_Chefe_idle_Frame_8
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 74
+      width: 76
+      height: 62
+    spriteID: dd1996fba1212044e9b516e99966b690
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 74}
+  - name: Cobra_Chefe_idle_Frame_9
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 144
+      width: 76
+      height: 62
+    spriteID: 7c61f523f0108cf46b8bbad568beb852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 144}
+  - name: Cobra_Chefe_idle_Frame_10
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 214
+      width: 76
+      height: 62
+    spriteID: 2faf7d16f83febd4994ee82d82a8b243
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 214}
+  - name: Cobra_Chefe_idle_Frame_11
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 284
+      width: 76
+      height: 62
+    spriteID: 576e40faf9772954192022afc8570f64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 284}
+  - name: Cobra_Chefe_idle_Frame_12
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 354
+      width: 76
+      height: 62
+    spriteID: aa6e39b2593843141a6a75adea92662a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 354}
+  - name: Cobra_Chefe_idle_Frame_13
+    originalName: 
+    pivot: {x: 0.5131579, y: 0.46774194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 424
+      width: 76
+      height: 62
+    spriteID: 0a9ddd04488762c42a900edacd2a0301
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 424}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -626165922
+    name: Cobra_Chefe_idle
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cobra_Chefe_idle_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 762ab99b65de87c469c119969ce8a70e
+    - name: Cobra_Chefe_idle_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: f22ac1c062f6e40439273b34e460bab4
+    - name: Cobra_Chefe_idle_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 46d50684b6477694689a303d44301c6b
+    - name: Cobra_Chefe_idle_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 61c1ac3da05fd8a43abe078b0cfbf7f5
+    - name: Cobra_Chefe_idle_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 63
+      spriteId: 266fc950f1cec2041b0cb41252c7f844
+    - name: Cobra_Chefe_idle_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 6
+        width: 77
+        height: 64
+      spriteId: 0a2459899e2ed0843ba6cf3f36631720
+    - name: Cobra_Chefe_idle_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 64
+      spriteId: 189585fc293a6464ba1ac5cc89565f5d
+    - name: Cobra_Chefe_idle_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 6
+        width: 77
+        height: 63
+      spriteId: 2b3172b9af0bd0a40b1010d95e3981f8
+    - name: Cobra_Chefe_idle_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: dd1996fba1212044e9b516e99966b690
+    - name: Cobra_Chefe_idle_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 7c61f523f0108cf46b8bbad568beb852
+    - name: Cobra_Chefe_idle_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 2faf7d16f83febd4994ee82d82a8b243
+    - name: Cobra_Chefe_idle_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 576e40faf9772954192022afc8570f64
+    - name: Cobra_Chefe_idle_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: aa6e39b2593843141a6a75adea92662a
+    - name: Cobra_Chefe_idle_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 6
+        width: 76
+        height: 62
+      spriteId: 0a9ddd04488762c42a900edacd2a0301
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 78, y: 70}

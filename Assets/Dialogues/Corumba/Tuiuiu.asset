@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Tuiuiu
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Tuiuiu
+      characterIcon: {fileID: -7165591826264807993, guid: 2bca261af4bb9984e9028c142616e3c7, type: 3}
+    line: "Bem-vindo ao Casario do Porto Geral de Corumb\xE1! \xC9 um conjunto arquitet\xF4nico
+      hist\xF3rico, tombado como Patrim\xF4nio Hist\xF3rico Nacional pelo IPHAN.\r\n"
+    skip: 0
+  - character:
+      characterName: Tuiuiu
+      characterIcon: {fileID: -7165591826264807993, guid: 2bca261af4bb9984e9028c142616e3c7, type: 3}
+    line: "Localizado principalmente na rua Manoel Cavassa e \xE1reas pr\xF3ximas,
+      preserva constru\xE7\xF5es que remontam ao s\xE9culo XVIII, marcando a import\xE2ncia
+      econ\xF4mica da cidade quando seu porto recebia embarca\xE7\xF5es de toda a
+      Bacia do Prata e at\xE9 da Europa.\r\n"
+    skip: 0
+  - character:
+      characterName: Tuiuiu
+      characterIcon: {fileID: -7165591826264807993, guid: 2bca261af4bb9984e9028c142616e3c7, type: 3}
+    line: "Com influ\xEAncias arquitet\xF4nicas de diversas nacionalidades, o casario
+      mant\xE9m um charme \xFAnico e \xE9 protegido por leis municipais e federais.\r\n"
+    skip: 0
+  - character:
+      characterName: Tuiuiu
+      characterIcon: {fileID: -7165591826264807993, guid: 2bca261af4bb9984e9028c142616e3c7, type: 3}
+    line: "Obras de revitaliza\xE7\xE3o, como as realizadas pelo Programa Monumenta
+      e pelo PAC Cidades Hist\xF3ricas, t\xEAm recuperado pr\xE9dios, pra\xE7as e
+      espa\xE7os culturais, garantindo que esse patrim\xF4nio continue contando a
+      hist\xF3ria de Corumb\xE1 para as futuras gera\xE7\xF5es.\r\n"
+    skip: 0
+  - character:
+      characterName: Tuiuiu
+      characterIcon: {fileID: -7165591826264807993, guid: 2bca261af4bb9984e9028c142616e3c7, type: 3}
+    line: 'Ah, e temos um jogo especial aqui! Venha jogar com a gente!
+
+'
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

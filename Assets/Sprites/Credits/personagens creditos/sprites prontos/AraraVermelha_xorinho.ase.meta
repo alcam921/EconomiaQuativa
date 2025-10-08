@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 4f8e47e77df688f4bbcc2ce854e6e6bc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332713995949
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: AraraVermelha_xorinho_Frame_0
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 4
+      width: 33
+      height: 47
+    spriteID: e9ea7938554056346b85e8d767b4127f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 4}
+  - name: AraraVermelha_xorinho_Frame_1
+    originalName: 
+    pivot: {x: 0.53846157, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 39
+      height: 47
+    spriteID: 779d61e65f5b38242bc44dbb0979f674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 4}
+  - name: AraraVermelha_xorinho_Frame_2
+    originalName: 
+    pivot: {x: 0.4883721, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 43
+      height: 47
+    spriteID: 2bb94151fc7b08f4eb3088489c9b67c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: AraraVermelha_xorinho_Frame_3
+    originalName: 
+    pivot: {x: 0.53846157, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 59
+      width: 39
+      height: 47
+    spriteID: 6ae3a5e0c40f6b141a3a7e09ddfc9be1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 59}
+  - name: AraraVermelha_xorinho_Frame_4
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 59
+      width: 33
+      height: 47
+    spriteID: a1d4a658797b3c04895ec8113b8abc9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 59}
+  - name: AraraVermelha_xorinho_Frame_5
+    originalName: 
+    pivot: {x: 0.65625, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 170
+      width: 32
+      height: 47
+    spriteID: e952d076016b5a242a4636849d26ea18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 170}
+  - name: AraraVermelha_xorinho_Frame_6
+    originalName: 
+    pivot: {x: 0.65625, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 114
+      width: 32
+      height: 48
+    spriteID: 24497c1849505eb4c8df4d1f47547ec1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 114}
+  - name: AraraVermelha_xorinho_Frame_7
+    originalName: 
+    pivot: {x: 0.65625, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 4
+      width: 32
+      height: 49
+    spriteID: 62ed2041d414d784785c662b801ceb62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 4}
+  - name: AraraVermelha_xorinho_Frame_8
+    originalName: 
+    pivot: {x: 0.65625, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 176
+      width: 32
+      height: 50
+    spriteID: e537249915ec33549a35905ef7dd212b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 176}
+  - name: AraraVermelha_xorinho_Frame_9
+    originalName: 
+    pivot: {x: 0.65625, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 114
+      width: 32
+      height: 51
+    spriteID: f1e1cf22c37312d418b363f094521762
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 114}
+  - name: AraraVermelha_xorinho_Frame_10
+    originalName: 
+    pivot: {x: 0.5675676, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 4
+      width: 37
+      height: 50
+    spriteID: bcbae733457666a4fa7ec7b6d58874a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 4}
+  - name: AraraVermelha_xorinho_Frame_11
+    originalName: 
+    pivot: {x: 0.4883721, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 43
+      height: 49
+    spriteID: 6f0dfd7366533ff4c91e499bb3103988
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 61}
+  - name: AraraVermelha_xorinho_Frame_12
+    originalName: 
+    pivot: {x: 0.45652175, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 46
+      height: 49
+    spriteID: 9c6bfc63475d37e46b710a70e4bff68b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: AraraVermelha_xorinho_Frame_13
+    originalName: 
+    pivot: {x: 0.51219517, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 41
+      height: 49
+    spriteID: 4507d5436171ccb48a6185f8379f3579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 173}
+  - name: AraraVermelha_xorinho_Frame_14
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 173
+      width: 33
+      height: 49
+    spriteID: 5d87a18b9ccbcec44816943d85ddaf45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 173}
+  - name: AraraVermelha_xorinho_Frame_15
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 62
+      width: 33
+      height: 49
+    spriteID: fc9b6fd5eaaea644ca72c3ac98c283bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 62}
+  - name: AraraVermelha_xorinho_Frame_16
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 119
+      width: 33
+      height: 49
+    spriteID: d3ccc7b851ad2fd469a5d47d5d47a842
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 119}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1248707135
+    name: AraraVermelha_xorinho
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: AraraVermelha_xorinho_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 5
+        width: 33
+        height: 47
+      spriteId: e9ea7938554056346b85e8d767b4127f
+    - name: AraraVermelha_xorinho_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 4
+        y: 5
+        width: 39
+        height: 47
+      spriteId: 779d61e65f5b38242bc44dbb0979f674
+    - name: AraraVermelha_xorinho_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 4
+        y: 5
+        width: 43
+        height: 47
+      spriteId: 2bb94151fc7b08f4eb3088489c9b67c9
+    - name: AraraVermelha_xorinho_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 4
+        y: 5
+        width: 39
+        height: 47
+      spriteId: 6ae3a5e0c40f6b141a3a7e09ddfc9be1
+    - name: AraraVermelha_xorinho_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 4
+        y: 5
+        width: 33
+        height: 47
+      spriteId: a1d4a658797b3c04895ec8113b8abc9d
+    - name: AraraVermelha_xorinho_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 4
+        y: 5
+        width: 32
+        height: 47
+      spriteId: e952d076016b5a242a4636849d26ea18
+    - name: AraraVermelha_xorinho_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 4
+        y: 5
+        width: 32
+        height: 48
+      spriteId: 24497c1849505eb4c8df4d1f47547ec1
+    - name: AraraVermelha_xorinho_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 4
+        y: 5
+        width: 32
+        height: 49
+      spriteId: 62ed2041d414d784785c662b801ceb62
+    - name: AraraVermelha_xorinho_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 4
+        y: 5
+        width: 32
+        height: 50
+      spriteId: e537249915ec33549a35905ef7dd212b
+    - name: AraraVermelha_xorinho_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 4
+        y: 5
+        width: 32
+        height: 51
+      spriteId: f1e1cf22c37312d418b363f094521762
+    - name: AraraVermelha_xorinho_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 5
+        width: 37
+        height: 50
+      spriteId: bcbae733457666a4fa7ec7b6d58874a9
+    - name: AraraVermelha_xorinho_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 4
+        y: 5
+        width: 43
+        height: 49
+      spriteId: 6f0dfd7366533ff4c91e499bb3103988
+    - name: AraraVermelha_xorinho_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 4
+        y: 5
+        width: 46
+        height: 49
+      spriteId: 9c6bfc63475d37e46b710a70e4bff68b
+    - name: AraraVermelha_xorinho_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 4
+        y: 5
+        width: 41
+        height: 49
+      spriteId: 4507d5436171ccb48a6185f8379f3579
+    - name: AraraVermelha_xorinho_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 4
+        y: 5
+        width: 33
+        height: 49
+      spriteId: 5d87a18b9ccbcec44816943d85ddaf45
+    - name: AraraVermelha_xorinho_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 4
+        y: 5
+        width: 33
+        height: 49
+      spriteId: fc9b6fd5eaaea644ca72c3ac98c283bf
+    - name: AraraVermelha_xorinho_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 4
+        y: 5
+        width: 33
+        height: 49
+      spriteId: d3ccc7b851ad2fd469a5d47d5d47a842
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 50, y: 60}

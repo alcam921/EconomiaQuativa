@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: AlexData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: 626954649427575514, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: 4411137320668083883, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: 6091909728303561833, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: 2762416249224208071, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: -3484037519491480805, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: -7043587726181225889, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: -5401726338082735990, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: 6007145563609608692, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: -2177025621078887857, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  - {fileID: -522978529969378815, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+  removingMaskImages:
+  - {fileID: -7942016891139599544, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -2625537479881754100, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 6763882721793108362, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -6731496349293521655, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -4445410494335195544, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -9053895084303993172, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 6353673116397495611, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 50453164158606729, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 6320310875834828754, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 1689786079858104296, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 5571313689465529715, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 4301834001793224239, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 2867380498986527310, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 601887415746161252, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 6595736147515971610, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -2431246585274595375, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 6378456591357741589, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 125183508966634683, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -4053180499533953192, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: 4755116022754381316, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -6387419545186709771, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  - {fileID: -4849306675307791703, guid: 48988ecdcea711640baf61dac233c836, type: 3}
+  studentName: Alex Camara
+  studentRole: "Organiza\xE7\xE3o, planejamento e documenta\xE7\xE3o do projeto"
+  hasDesc: 1
+  studentDescription: "Respons\xE1vel por garantir que todos chegassem na aula e
+    em casa depois do curso (valeu pela carona, Alex!)."
+  studentImage: {fileID: 21300000, guid: fd3cfc92077487342956768a39327cac, type: 3}
+  cardImage: {fileID: -4862350789362095849, guid: bbd6c1cc1ac24da44923855db7833a39, type: 3}
+  linkedinURL: https://www.linkedin.com/in/alex-c%C3%A2mara-2a3aa7182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  gitURL: https://github.com/alcam921
+  instaURL: https://www.instagram.com/alexcamara3?igsh=MXZ2czcxeGlsd2gwNg%3D%3D&utm_source=qr

@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 146449d9bf8a56f4282d0aff3491f697
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332713995949
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: LoboGuara_Gabi_Frame_0
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 128
+      width: 30
+      height: 50
+    spriteID: 0d3bba12ac7a5f64ea30db3c9ebef1b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 128}
+  - name: LoboGuara_Gabi_Frame_1
+    originalName: 
+    pivot: {x: 0.5588235, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 61
+      width: 34
+      height: 50
+    spriteID: cedc6775d49feda49a9a5ef7b6a9f53c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 61}
+  - name: LoboGuara_Gabi_Frame_2
+    originalName: 
+    pivot: {x: 0.52777773, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 125
+      width: 36
+      height: 50
+    spriteID: 0ea0c6a9f2193b14c9f4a18dce2705d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 125}
+  - name: LoboGuara_Gabi_Frame_3
+    originalName: 
+    pivot: {x: 0.5135135, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 175
+      width: 37
+      height: 50
+    spriteID: 1679525d9f76d784582b09e545084a5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 175}
+  - name: LoboGuara_Gabi_Frame_4
+    originalName: 
+    pivot: {x: 0.5135135, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 37
+      height: 50
+    spriteID: 14a44ef8f7352b54aba4d8bb54cf1e37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: LoboGuara_Gabi_Frame_5
+    originalName: 
+    pivot: {x: 0.52777773, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 183
+      width: 36
+      height: 50
+    spriteID: 8cf1ec6d8c3d459448ca75fd2e7def4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 183}
+  - name: LoboGuara_Gabi_Frame_6
+    originalName: 
+    pivot: {x: 0.57575756, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 119
+      width: 33
+      height: 50
+    spriteID: 07cb297259a0510429704fcd5a24a0e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 119}
+  - name: LoboGuara_Gabi_Frame_7
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 186
+      width: 30
+      height: 50
+    spriteID: 5be89914ae630ba4a8c9f8b2924a68fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 186}
+  - name: LoboGuara_Gabi_Frame_8
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 61
+      width: 30
+      height: 50
+    spriteID: 201188f643b9db442addfd331ada2cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 61}
+  - name: LoboGuara_Gabi_Frame_9
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 119
+      width: 30
+      height: 50
+    spriteID: 03e25c2d4094b27448494e2ee1f10f78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 119}
+  - name: LoboGuara_Gabi_Frame_10
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.47169808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 67
+      width: 30
+      height: 53
+    spriteID: a29497ab5f2e66b47a051eeadd2d681e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 67}
+  - name: LoboGuara_Gabi_Frame_11
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 177
+      width: 30
+      height: 55
+    spriteID: b2f76afe4a14abc469885bcfe05a6a0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 177}
+  - name: LoboGuara_Gabi_Frame_12
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 4
+      width: 30
+      height: 55
+    spriteID: bf9cbf963593c4542812094449ce414e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 4}
+  - name: LoboGuara_Gabi_Frame_13
+    originalName: 
+    pivot: {x: 0.57575756, y: 0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 62
+      width: 33
+      height: 55
+    spriteID: d8680c2e97db79c46a23a645b7b5204b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 62}
+  - name: LoboGuara_Gabi_Frame_14
+    originalName: 
+    pivot: {x: 0.475, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 40
+      height: 49
+    spriteID: 4ca51ead47e3cc745be9b3ec07e66b27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: LoboGuara_Gabi_Frame_15
+    originalName: 
+    pivot: {x: 0.4871795, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 39
+      height: 49
+    spriteID: 6f358133e825f51449c7547ed519692f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 61}
+  - name: LoboGuara_Gabi_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 38
+      height: 49
+    spriteID: 6e51bedf4c34d8d439ee3563d4985b88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: LoboGuara_Gabi_Frame_17
+    originalName: 
+    pivot: {x: 0.54285717, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 35
+      height: 49
+    spriteID: ca1e9680e817df94f932ba4785c548ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 4}
+  - name: LoboGuara_Gabi_Frame_18
+    originalName: 
+    pivot: {x: 0.59375, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 4
+      width: 32
+      height: 49
+    spriteID: 50286f5b8b1fb3b46a1d4823a78dcc9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 4}
+  - name: LoboGuara_Gabi_Frame_19
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 177
+      width: 30
+      height: 49
+    spriteID: fa852ff6f27572e4bbfb0c2fd5ea1d6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 177}
+  - name: LoboGuara_Gabi_Frame_20
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 4
+      width: 30
+      height: 49
+    spriteID: 01362036132337e4e9cd3ab66399ce07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 4}
+  - name: LoboGuara_Gabi_Frame_21
+    originalName: 
+    pivot: {x: 0.6333333, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 61
+      width: 30
+      height: 49
+    spriteID: 8d838ce7341128d48b912929db2abaa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 61}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 125967146
+    name: LoboGuara_Gabi
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: LoboGuara_Gabi_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 50
+      spriteId: 0d3bba12ac7a5f64ea30db3c9ebef1b2
+    - name: LoboGuara_Gabi_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 5
+        width: 34
+        height: 50
+      spriteId: cedc6775d49feda49a9a5ef7b6a9f53c
+    - name: LoboGuara_Gabi_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 6
+        y: 5
+        width: 36
+        height: 50
+      spriteId: 0ea0c6a9f2193b14c9f4a18dce2705d2
+    - name: LoboGuara_Gabi_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 5
+        width: 37
+        height: 50
+      spriteId: 1679525d9f76d784582b09e545084a5a
+    - name: LoboGuara_Gabi_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 6
+        y: 5
+        width: 37
+        height: 50
+      spriteId: 14a44ef8f7352b54aba4d8bb54cf1e37
+    - name: LoboGuara_Gabi_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 6
+        y: 5
+        width: 36
+        height: 50
+      spriteId: 8cf1ec6d8c3d459448ca75fd2e7def4b
+    - name: LoboGuara_Gabi_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 5
+        width: 33
+        height: 50
+      spriteId: 07cb297259a0510429704fcd5a24a0e8
+    - name: LoboGuara_Gabi_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 50
+      spriteId: 5be89914ae630ba4a8c9f8b2924a68fa
+    - name: LoboGuara_Gabi_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 50
+      spriteId: 201188f643b9db442addfd331ada2cb7
+    - name: LoboGuara_Gabi_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 50
+      spriteId: 03e25c2d4094b27448494e2ee1f10f78
+    - name: LoboGuara_Gabi_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 53
+      spriteId: a29497ab5f2e66b47a051eeadd2d681e
+    - name: LoboGuara_Gabi_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 55
+      spriteId: b2f76afe4a14abc469885bcfe05a6a0f
+    - name: LoboGuara_Gabi_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 55
+      spriteId: bf9cbf963593c4542812094449ce414e
+    - name: LoboGuara_Gabi_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 6
+        y: 5
+        width: 33
+        height: 55
+      spriteId: d8680c2e97db79c46a23a645b7b5204b
+    - name: LoboGuara_Gabi_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 6
+        y: 5
+        width: 40
+        height: 49
+      spriteId: 4ca51ead47e3cc745be9b3ec07e66b27
+    - name: LoboGuara_Gabi_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 6
+        y: 5
+        width: 39
+        height: 49
+      spriteId: 6f358133e825f51449c7547ed519692f
+    - name: LoboGuara_Gabi_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 6
+        y: 5
+        width: 38
+        height: 49
+      spriteId: 6e51bedf4c34d8d439ee3563d4985b88
+    - name: LoboGuara_Gabi_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 6
+        y: 5
+        width: 35
+        height: 49
+      spriteId: ca1e9680e817df94f932ba4785c548ba
+    - name: LoboGuara_Gabi_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 6
+        y: 5
+        width: 32
+        height: 49
+      spriteId: 50286f5b8b1fb3b46a1d4823a78dcc9b
+    - name: LoboGuara_Gabi_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 49
+      spriteId: fa852ff6f27572e4bbfb0c2fd5ea1d6d
+    - name: LoboGuara_Gabi_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 49
+      spriteId: 01362036132337e4e9cd3ab66399ce07
+    - name: LoboGuara_Gabi_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 6
+        y: 5
+        width: 30
+        height: 49
+      spriteId: 8d838ce7341128d48b912929db2abaa9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 50, y: 60}

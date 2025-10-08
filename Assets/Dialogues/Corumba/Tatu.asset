@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Tatu
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: " No topo do Morro do Cruzeiro, em Corumb\xE1, est\xE1 o Cristo Rei do
+      Pantanal, um dos principais pontos tur\xEDsticos da regi\xE3o."
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "A escultura, criada pela artista pl\xE1stica Izulina Xavier, foi inaugurada
+      em 2004 e integra um complexo religioso formado por 72 est\xE1tuas que representam
+      a Via Sacra.\r\n"
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: " A Via Sacra, com suas 14 esta\xE7\xF5es, conduz os visitantes at\xE9
+      o topo do morro, onde se ergue o Cristo Rei, com 12 metros de altura, a 293
+      metros acima do n\xEDvel do mar.\r\n"
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "Do local, \xE9 poss\xEDvel ter uma vista panor\xE2mica de 360 graus, contemplando
+      Corumb\xE1, Lad\xE1rio, a Bol\xEDvia e a imensid\xE3o do Pantanal \u2014 cen\xE1rio
+      perfeito para admirar o p\xF4r do sol.\r\n"
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: " O acesso \xE9 feito por uma escadaria de 503 degraus e 187 metros de
+      comprimento, que tamb\xE9m comp\xF5em o roteiro tur\xEDstico."
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "Al\xE9m de seu valor religioso, o Cristo Rei do Pantanal oferece uma experi\xEAncia
+      cultural e visual \xFAnica, unindo hist\xF3ria, f\xE9 e a beleza natural da
+      maior plan\xEDcie alagada do planeta."
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: Ah, e temos um jogo especial aqui! Venha jogar com a gente!
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

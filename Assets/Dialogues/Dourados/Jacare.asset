@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Jacare
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Seja bem-vindo a Dourados! Veio na melhor \xE9poca, est\xE1 acontecendo
+      a nossa tradicional Festa do Peixe!"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "S\xE9rio? Vi o movimento e fiquei curioso. Essa festa \xE9 t\xE3o importante
+      assim?"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Muito! Come\xE7ou em 2004 e hoje \xE9 um dos maiores eventos culturais
+      de Mato Grosso do Sul. Ganhou at\xE9 reconhecimento nacional pelo Minist\xE9rio
+      do Turismo."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Tem de tudo um pouco! A atra\xE7\xE3o principal \xE9 o Torneio de Pesca,
+      que rola nos lagos dos parques p\xFAblicos."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Tem categorias para crian\xE7as e adultos e quem pesca o peixe mais pesado
+      tamb\xE9m leva pr\xEAmio.\r"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "As pra\xE7as de alimenta\xE7\xE3o ficam cheias de barracas e food trucks.
+      Ainda tem concurso gastron\xF4mico para eleger o melhor prato \xE0 base de
+      peixe."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Tamb\xE9m temos esportes, shows, at\xE9 corrida. A cidade inteira participa
+      e ainda ajuda os produtores de peixe da regi\xE3o, porque a comercializa\xE7\xE3o
+      aqui \xE9 enorme, especialmente na \xE9poca de Semana Santa."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Agora tenho um  desafio para voc\xEA: \xE9 um mini jogo chamado \u201COnde
+      est\xE1 o Quati?\u201D, \xE9 simples: voc\xEA precisa encontrar o Quati escondido
+      no meio de v\xE1rios outros animais. Parece f\xE1cil, mas \xE9 mais dif\xEDcil
+      do que parece! Vamos jogar?"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

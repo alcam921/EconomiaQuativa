@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Tatu
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "Ol\xE1, seja bem-vindo \xE0 Gruta do Lago Azul! Vejo que est\xE1 curioso
+      sobre esse lugar incr\xEDvel. J\xE1 conhece um pouco da sua hist\xF3ria?\r\n"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Ainda n\xE3o! Mas essa \xE1gua azul me chamou muita aten\xE7\xE3o. Por
+      que ela \xE9 t\xE3o especial?\r\n"
+    skip: 0
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "A \xE1gua \xE9 cristalina, e a cor azul vem da luz do sol e dos minerais
+      no fundo do lago. \xC9 t\xE3o protegida que em 1978 a gruta foi tombada como
+      Monumento Natural pelo IPHAN, com acesso controlado, apenas 15 pessoas por
+      vez, mesmo que a cratera caiba mais de 100!\r\n"
+    skip: 0
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "Ningu\xE9m sabe a profundidade exata, mas o maior mergulho j\xE1 chegou
+      a 87 metros. E em 1992, uma expedi\xE7\xE3o encontrou f\xF3sseis de animais
+      pr\xE9-hist\xF3ricos, como pregui\xE7a gigante e tigre dente de sabre."
+    skip: 0
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+    line: "Agora que voc\xEA j\xE1 conhece um pouco dessa hist\xF3ria, que tal um
+      desafio? Vamos jogar um jogo chamado \u201COnde est\xE1 o Quati\u201D e ver
+      se voc\xEA consegue o Quati no meio de outros animais!\r\n"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

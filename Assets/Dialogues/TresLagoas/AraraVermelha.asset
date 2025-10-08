@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: AraraVermelha
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Arara Vermelha
+      characterIcon: {fileID: -338895053295403748, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+    line: "Seja bem-vindo! A trajet\xF3ria da Casa do Artes\xE3o est\xE1 diretamente
+      ligada \xE0 valoriza\xE7\xE3o do artesanato local e ao fortalecimento cultural
+      e econ\xF4mico da cidade.\r\n"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "E como tudo come\xE7ou?\r\n"
+  - character:
+      characterName: Arara Vermelha
+      characterIcon: {fileID: -338895053295403748, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+    line: "Nos anos iniciais da d\xE9cada de 1970, Tr\xEAs Lagoas ainda n\xE3o tinha
+      um espa\xE7o oficial para exposi\xE7\xE3o e venda das obras artesanais. Os
+      artes\xE3os produziam muito, mas n\xE3o havia um local pr\xF3prio que reunisse
+      e desse visibilidade ao trabalho deles.\r\n"
+  - character:
+      characterName: Arara Vermelha
+      characterIcon: {fileID: -338895053295403748, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+    line: "Foi s\xF3 em 2010 que a Prefeitura assinou a ordem de servi\xE7o para
+      construir este edif\xEDcio moderno aqui na Circular da Lagoa Maior. A Casa
+      do Artes\xE3o conta a hist\xF3ria da nossa identidade cultural e fortalece
+      a economia criativa de Tr\xEAs Lagoas.\r\n"
+  - character:
+      characterName: Arara Vermelha
+      characterIcon: {fileID: -338895053295403748, guid: 85b8bb44090de214097e62608777d8bb, type: 3}
+    line: "Agora que voc\xEA j\xE1 conhece essa aventura, que tal testar sua mem\xF3ria?
+      Vamos jogar o jogo da mem\xF3ria.\r\n\r\n"
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

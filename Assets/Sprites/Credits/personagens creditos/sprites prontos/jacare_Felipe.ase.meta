@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: a05b5e7d5660df64389127ca0ce633f1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332714026599
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: jacare_Felipe_Frame_0
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 67
+      width: 41
+      height: 55
+    spriteID: 0186cd90f2ca0004297e59c0935c1528
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 67}
+  - name: jacare_Felipe_Frame_1
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 130
+      width: 41
+      height: 55
+    spriteID: 86c8ce4fa4b93874f996da0e3400b996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 130}
+  - name: jacare_Felipe_Frame_2
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 193
+      width: 41
+      height: 55
+    spriteID: b7ac525b624428142bb447d26072858d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 193}
+  - name: jacare_Felipe_Frame_3
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 449
+      width: 42
+      height: 55
+    spriteID: f2dff902c1f45a541a4c25914d7e131f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 449}
+  - name: jacare_Felipe_Frame_4
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 4
+      width: 42
+      height: 55
+    spriteID: 7f9dda455a24e1c4da3d0c7356ac3375
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 4}
+  - name: jacare_Felipe_Frame_5
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 256
+      width: 41
+      height: 55
+    spriteID: a9668b687c3e468478ac5f1edc0d568e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 256}
+  - name: jacare_Felipe_Frame_6
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 319
+      width: 41
+      height: 55
+    spriteID: 26aa0f9e066eff847901916c8789bc38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 319}
+  - name: jacare_Felipe_Frame_7
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 382
+      width: 41
+      height: 55
+    spriteID: 990aa5ee81e08f940b783b19f38a126b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 382}
+  - name: jacare_Felipe_Frame_8
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 445
+      width: 41
+      height: 55
+    spriteID: 0d8e4efb8cb59fc4482585c730406cf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 445}
+  - name: jacare_Felipe_Frame_9
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47272724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 4
+      width: 41
+      height: 55
+    spriteID: 656107a6d9b687e41bac02304eeab47d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 4}
+  - name: jacare_Felipe_Frame_10
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.44827583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 383
+      width: 41
+      height: 58
+    spriteID: da88d850e8d1adf40b7528e40b6d759b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 383}
+  - name: jacare_Felipe_Frame_11
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.4333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 41
+      height: 60
+    spriteID: 876457dbb86aa514386f1d9ebce2c7f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: jacare_Felipe_Frame_12
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.42622945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 41
+      height: 61
+    spriteID: c293f32e588be274896925ca1a21abcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
+  - name: jacare_Felipe_Frame_13
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.4333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 64
+      width: 44
+      height: 60
+    spriteID: 1d0767e3084224c46ac4d10479a8d43d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 64}
+  - name: jacare_Felipe_Frame_14
+    originalName: 
+    pivot: {x: 0.47058827, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 51
+      height: 52
+    spriteID: 675f5c917b9f0cb4c8221171880479d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: jacare_Felipe_Frame_15
+    originalName: 
+    pivot: {x: 0.48000002, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 269
+      width: 50
+      height: 49
+    spriteID: e33f8da49d2609541a63ab1e65b1d19e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 269}
+  - name: jacare_Felipe_Frame_16
+    originalName: 
+    pivot: {x: 0.48979592, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 326
+      width: 49
+      height: 49
+    spriteID: 027f18441368912418f8e9a77b0bf814
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 326}
+  - name: jacare_Felipe_Frame_17
+    originalName: 
+    pivot: {x: 0.5217392, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 4
+      width: 46
+      height: 49
+    spriteID: c86efb697a8bdaa4bbe9514721c343f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 4}
+  - name: jacare_Felipe_Frame_18
+    originalName: 
+    pivot: {x: 0.5581395, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 61
+      width: 43
+      height: 49
+    spriteID: 5cccb8b866cb9a14d81d0600c147745b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 61}
+  - name: jacare_Felipe_Frame_19
+    originalName: 
+    pivot: {x: 0.631579, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 118
+      width: 38
+      height: 49
+    spriteID: 6fef6bd8039937846ae42fc056369ad6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 118}
+  - name: jacare_Felipe_Frame_20
+    originalName: 
+    pivot: {x: 0.631579, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 175
+      width: 38
+      height: 49
+    spriteID: 75acd445b46c1c34b800d532847515fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 175}
+  - name: jacare_Felipe_Frame_21
+    originalName: 
+    pivot: {x: 0.631579, y: 0.53061223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 232
+      width: 38
+      height: 49
+    spriteID: f0c52dded1c766a4aba55115fb0ffd18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 232}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1074031454
+    name: jacare_Felipe
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: jacare_Felipe_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: 0186cd90f2ca0004297e59c0935c1528
+    - name: jacare_Felipe_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: 86c8ce4fa4b93874f996da0e3400b996
+    - name: jacare_Felipe_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: b7ac525b624428142bb447d26072858d
+    - name: jacare_Felipe_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 9
+        width: 42
+        height: 55
+      spriteId: f2dff902c1f45a541a4c25914d7e131f
+    - name: jacare_Felipe_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 6
+        y: 9
+        width: 42
+        height: 55
+      spriteId: 7f9dda455a24e1c4da3d0c7356ac3375
+    - name: jacare_Felipe_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: a9668b687c3e468478ac5f1edc0d568e
+    - name: jacare_Felipe_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: 26aa0f9e066eff847901916c8789bc38
+    - name: jacare_Felipe_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: 990aa5ee81e08f940b783b19f38a126b
+    - name: jacare_Felipe_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: 0d8e4efb8cb59fc4482585c730406cf9
+    - name: jacare_Felipe_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 55
+      spriteId: 656107a6d9b687e41bac02304eeab47d
+    - name: jacare_Felipe_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 58
+      spriteId: da88d850e8d1adf40b7528e40b6d759b
+    - name: jacare_Felipe_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 60
+      spriteId: 876457dbb86aa514386f1d9ebce2c7f7
+    - name: jacare_Felipe_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 6
+        y: 9
+        width: 41
+        height: 61
+      spriteId: c293f32e588be274896925ca1a21abcd
+    - name: jacare_Felipe_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 6
+        y: 9
+        width: 44
+        height: 60
+      spriteId: 1d0767e3084224c46ac4d10479a8d43d
+    - name: jacare_Felipe_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 6
+        y: 9
+        width: 51
+        height: 52
+      spriteId: 675f5c917b9f0cb4c8221171880479d9
+    - name: jacare_Felipe_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 6
+        y: 9
+        width: 50
+        height: 49
+      spriteId: e33f8da49d2609541a63ab1e65b1d19e
+    - name: jacare_Felipe_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 6
+        y: 9
+        width: 49
+        height: 49
+      spriteId: 027f18441368912418f8e9a77b0bf814
+    - name: jacare_Felipe_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 6
+        y: 9
+        width: 46
+        height: 49
+      spriteId: c86efb697a8bdaa4bbe9514721c343f4
+    - name: jacare_Felipe_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 6
+        y: 9
+        width: 43
+        height: 49
+      spriteId: 5cccb8b866cb9a14d81d0600c147745b
+    - name: jacare_Felipe_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 9
+        width: 38
+        height: 49
+      spriteId: 6fef6bd8039937846ae42fc056369ad6
+    - name: jacare_Felipe_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 9
+        width: 38
+        height: 49
+      spriteId: 75acd445b46c1c34b800d532847515fc
+    - name: jacare_Felipe_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 6
+        y: 9
+        width: 38
+        height: 49
+      spriteId: f0c52dded1c766a4aba55115fb0ffd18
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 60, y: 70}

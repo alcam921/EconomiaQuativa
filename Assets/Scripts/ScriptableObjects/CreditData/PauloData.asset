@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: PauloData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: -7389619302457129487, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: 6675572513559741009, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: -8359543899917840141, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: 4372960288507337514, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: 2801238916570891294, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: 5128749580457706032, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: 5575197549325846211, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: -855385080695589190, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: -1245012341082199383, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  - {fileID: 6798542290432515962, guid: 928386bb437eb9343a73348a33383bd8, type: 3}
+  removingMaskImages:
+  - {fileID: -8711948157436771079, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -8763309864518730498, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 4875998919706836681, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -7666373005774687525, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -173406557867166307, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 6206531660802137636, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -4841480736482072840, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -7244818520492918914, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 4572034020292683755, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -6149467285588374753, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -7859718635823138912, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 3759980561450592107, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -79414581407219640, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 7741265243253666708, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -4485046726344676249, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -549315279728419553, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -7080805792474163601, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 7923354206453767913, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 4844269306805799464, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -5861455686152565197, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: -8886422206635140130, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  - {fileID: 7476715869712976190, guid: 95b5619bad370634c8d85c7c927f00e9, type: 3}
+  studentName: "Paulo Jos\xE9"
+  studentRole: Artista 2D
+  hasDesc: 1
+  studentDescription: "Nunca pergunte para ele sobre como foi desenhar o Cristo do
+    Pantanal. \xC9 s\xE9rio, n\xE3o pergunte."
+  studentImage: {fileID: 21300000, guid: 08993d108c1574f4a8a054fd23960a7b, type: 3}
+  cardImage: {fileID: -6686760195425346513, guid: a797ec226393b8f478a130fa77976172, type: 3}
+  linkedinURL: https://www.linkedin.com/in/paulo-jos%C3%A9-dietrich-filho-4a4884387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  gitURL: https://github.com/PauleraProg
+  instaURL: 'https://www.instagram.com/factualmente_indeciso?igsh=anhuZXB4dzIxMGo= '

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: PedroData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: -1087399012516309252, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 852033623132657708, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: -4387278559779885776, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 5820600773965229924, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 7794563964485632187, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 4023307338498094386, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: -5059638539820347091, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 5413694783877979573, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 9090252904163597466, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  - {fileID: 2899961912252314770, guid: b30692e743373bb479777b44cee9a31b, type: 3}
+  removingMaskImages:
+  - {fileID: 6198610102775858593, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -8230027426057932590, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 6723763319765362958, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 7567145852320260856, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 1489160802557600081, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -2990266481917897779, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -8413806387204060746, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -1879375196937167750, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 6986618342860564441, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 6604482379381157077, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 4203613477522914615, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -7088926074225106768, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -270304474377235893, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: 3255489395214225244, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -7838178826048535563, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -6862504577725166202, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  - {fileID: -2457000747889620166, guid: 5ca1bf890170c7b41ae8c9081d015092, type: 3}
+  studentName: Pedro Diniz Santana
+  studentRole: Desenvolvedor/Programador do Projeto
+  hasDesc: 1
+  studentDescription: Com grandes poderes, vem grandes responsabilidades e uma tremedeira
+    sem fim.
+  studentImage: {fileID: 21300000, guid: 712f640beb7356545b58d3cfce88b1c9, type: 3}
+  cardImage: {fileID: 4990735147834438834, guid: 47038b1ca17b7854c9e33c49b40b20ce, type: 3}
+  linkedinURL: https://www.linkedin.com/in/pedrodinizsantana/
+  gitURL: https://github.com/Pedro3DS
+  instaURL: https://www.instagram.com/pedro_3ds

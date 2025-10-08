@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: TamanduaMirim
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Seja muito bem-vindo a Bonito! Aqui voc\xEA vai conhecer um lugar que
+      \xE9 um verdadeiro patrim\xF4nio da nossa cultura: o restaurante Casa do Jo\xE3o.\r\n"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Casa do Jo\xE3o? J\xE1 ouvi falar que tem pratos deliciosos. Qual \xE9
+      a hist\xF3ria desse lugar?\r\n"
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Faz mais de 18 anos que a Casa do Jo\xE3o leva o sabor e a tradi\xE7\xE3o
+      da culin\xE1ria pantaneira para todo o Brasil. Tudo come\xE7ou em 2007, quando
+      o Sr. Jo\xE3o Vizcaino e a Sra. Davina Caran serviram sua famosa tra\xEDra
+      sem espinha, um prato que conquistou tanta gente que eles decidiram abrir o
+      restaurante.\r\n"
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Hoje, al\xE9m dos pratos incr\xEDveis, o restaurante \xE9 um ponto tur\xEDstico
+      que abriga um museu com objetos antigos, contando parte da hist\xF3ria da cidade
+      desde 1910. Uma verdadeira viagem no tempo que encanta todos os visitantes."
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Agora que voc\xEA j\xE1 sabe tudo isso, que tal testar seus conhecimentos?
+      Vamos jogar o Quiz sobre a cidade e seus pontos tur\xEDsticos!\r\n"
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

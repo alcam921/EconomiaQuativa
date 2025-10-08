@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: NathanData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: 77839443861333222, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: 929193382304644445, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -7046657859937435065, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -772004261334757622, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -7460719984832918143, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -7665722285396644711, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: 5895809599969358539, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -2608425069532273089, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -5321909105903326844, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  - {fileID: -7094347552136397260, guid: e5c7cc54cef79224fa7598e403b9377c, type: 3}
+  removingMaskImages:
+  - {fileID: 2101758357625513258, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 1544370984812360472, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -7457764928324885074, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 4983330733190269462, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -6747231382341649506, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -9165515022320114312, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 7643329654444240122, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 8707915182368101713, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -5320393398771858993, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -7280361374509430823, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 5850808594140418960, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -3780850478938665385, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -763699619280080024, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: -1643181570127973070, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 3010740364589405044, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 1179849298213134746, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 2348460618437392646, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 9031911566019998927, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 4026557083856392549, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 2605644186190824669, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 1103388266991702655, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  - {fileID: 3051939834190687827, guid: 22ac09fd62ecb29419055e0c4525e21b, type: 3}
+  studentName: Nathan Alexsander Garcete
+  studentRole: Artista 2D e Game Designer
+  hasDesc: 1
+  studentDescription: "O Artista 2D, na verdade. O Pai de Todos os Artistas 2D, o
+    Grande Artista 2D. Sem d\xFAvidas e com uma vantagem avassaladora, respons\xE1vel
+    pelo maior n\xFAmero de pixels desenhados."
+  studentImage: {fileID: 21300000, guid: efbcfaa3d6e05bb469c86865affb3807, type: 3}
+  cardImage: {fileID: 5505346689231256285, guid: aea1427f94bd37d4ea1696491a7f833c, type: 3}
+  linkedinURL: https://www.linkedin.com/in/nathan-alexsander-garcete-de-oliveira-de-souza-49425836b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  gitURL: https://github.com/NathanAlex-2
+  instaURL: https://www.instagram.com/nathanalexsander69/

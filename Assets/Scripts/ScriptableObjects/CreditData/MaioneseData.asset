@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: MaioneseData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: -1918116478306448084, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -959892469970053123, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: 3908979283982581987, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: 4059384349810865167, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: 7596432842566995674, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -7488450791570611435, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -2406117646060423889, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -5463995320569385739, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -7519237644950778342, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -280924228789721224, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  - {fileID: -309947431591859447, guid: 623175e7bc319b8409aafd6551e5458a, type: 3}
+  removingMaskImages:
+  - {fileID: -6488768490705003848, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -8174286555153518407, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 5023155516357823006, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -8311672518791087103, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 1597913372221283728, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 2512216311656624072, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 2203828400755411616, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -5383360260357228322, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -2739402293794094368, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 123957749066102890, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -5456050559807202385, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 8919578101978928672, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 33888946993413722, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 5878690435490041523, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -5270662942866200598, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -6253361216109408950, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -8155908717983751412, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 7698648111602395197, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -7275680646340480064, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 3585804150767106511, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: -3281365992831531256, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  - {fileID: 5695893864572723326, guid: 5472dec442f940f4487086223987b94f, type: 3}
+  studentName: Heinz Peter
+  studentRole: Artista 2D
+  hasDesc: 1
+  studentDescription: "Deu o maior n\xFAmero de risadas em momentos inadequeados
+    dentro da sala e consumo 100% \xE9tico de energ\xE9ticos."
+  studentImage: {fileID: 21300000, guid: 816e4b8439915494ea37b45ae540b102, type: 3}
+  cardImage: {fileID: -8175415427748220458, guid: 538db13ee4b88de4cbdca1e24d4f98a1, type: 3}
+  linkedinURL: https://www.linkedin.com/in/heinz-peter-peter-261a10387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  gitURL: https://github.com/HeinzPeterGit
+  instaURL: https://www.instagram.com/heinzpeterms/?next=%2F

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: TamanduaBandeira
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Tamandu\xE1-Bandeira"
+      characterIcon: {fileID: 626954649427575514, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+    line: Bem-vindo a Dourados! Vejo que encontrou o nosso monumento.
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Sim! \xC9 bonito, mas\u2026 o que ele representa?\r\n"
+    skip: 0
+  - character:
+      characterName: "Tamandu\xE1-Bandeira"
+      characterIcon: {fileID: 626954649427575514, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+    line: "Esse \xE9 o Monumento ao Colono, uma homenagem \xE0 Col\xF4nia Agr\xEDcola
+      Nacional de Dourados, que foi essencial para o crescimento da cidade nas d\xE9cadas
+      de 50 e 60. Sabia que ele \xE9 considerado Patrim\xF4nio Hist\xF3rico Municipal?"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Uau, s\xE9rio? E essas m\xE3os saindo do ch\xE3o?\r\n"
+    skip: 0
+  - character:
+      characterName: "Tamandu\xE1-Bandeira"
+      characterIcon: {fileID: 626954649427575514, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+    line: "Elas simbolizam a for\xE7a do trabalhador rural. E as bolinhas ao redor
+      representam as comunidades que nasceram com a expans\xE3o da col\xF4nia. Foi
+      esse povo que fez Dourados crescer!\r\n"
+    skip: 0
+  - character:
+      characterName: "Tamandu\xE1-Bandeira"
+      characterIcon: {fileID: 626954649427575514, guid: b711fb8ac1f70064882622e1847027c9, type: 3}
+    line: "Agora que tal testar a sua mem\xF3ria! Com um mini jogo da mem\xF3ria,
+      voc\xEA deve combinar as cartas com imagens que representam a cultura da nossa
+      cidade. Vamos l\xE1?"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

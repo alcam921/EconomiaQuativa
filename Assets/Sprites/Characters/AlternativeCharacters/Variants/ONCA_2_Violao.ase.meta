@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 5e04dd99444755a44bf1dd352d3c887c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638937412108420383
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: ONCA_2_Violao_Frame_0
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 39
+      height: 51
+    spriteID: 23bd701e25754d64aa7bf70950fa1696
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 4}
+  - name: ONCA_2_Violao_Frame_1
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 4
+      width: 39
+      height: 51
+    spriteID: d525ed2f88048d64eb2815d150c770a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 4}
+  - name: ONCA_2_Violao_Frame_2
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 64
+      width: 39
+      height: 51
+    spriteID: b7d9d507b8d1cbc459230317e85846e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 64}
+  - name: ONCA_2_Violao_Frame_3
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 64
+      width: 39
+      height: 51
+    spriteID: 7fb725b874dcffb4abbd84257c935a8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 64}
+  - name: ONCA_2_Violao_Frame_4
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.48076922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 39
+      height: 52
+    spriteID: 38647419436acf249a90688f9535e5f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: ONCA_2_Violao_Frame_5
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.48076922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 4
+      width: 39
+      height: 52
+    spriteID: 1a3bd0e808b1e01478f6f6ccf59dd74b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 4}
+  - name: ONCA_2_Violao_Frame_6
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.48076922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 4
+      width: 39
+      height: 52
+    spriteID: c48530948bf0df346a116f384dc5687c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 4}
+  - name: ONCA_2_Violao_Frame_7
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 64
+      width: 39
+      height: 51
+    spriteID: 0e0e498264863b6419ff6ee8abf45d2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 64}
+  - name: ONCA_2_Violao_Frame_8
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 64
+      width: 39
+      height: 51
+    spriteID: 07bfc542bff08044bb5e2cf067c19b01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 64}
+  - name: ONCA_2_Violao_Frame_9
+    originalName: 
+    pivot: {x: 0.35897437, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 39
+      height: 51
+    spriteID: 7d26056c7d762724f90eecfe7c734139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 64}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1895616359
+    name: ONCA_2_Violao
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: ONCA_2_Violao_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: 23bd701e25754d64aa7bf70950fa1696
+    - name: ONCA_2_Violao_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: d525ed2f88048d64eb2815d150c770a6
+    - name: ONCA_2_Violao_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: b7d9d507b8d1cbc459230317e85846e9
+    - name: ONCA_2_Violao_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: 7fb725b874dcffb4abbd84257c935a8e
+    - name: ONCA_2_Violao_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 52
+      spriteId: 38647419436acf249a90688f9535e5f7
+    - name: ONCA_2_Violao_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 52
+      spriteId: 1a3bd0e808b1e01478f6f6ccf59dd74b
+    - name: ONCA_2_Violao_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 52
+      spriteId: c48530948bf0df346a116f384dc5687c
+    - name: ONCA_2_Violao_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: 0e0e498264863b6419ff6ee8abf45d2d
+    - name: ONCA_2_Violao_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: 07bfc542bff08044bb5e2cf067c19b01
+    - name: ONCA_2_Violao_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 11
+        y: 5
+        width: 39
+        height: 51
+      spriteId: 7d26056c7d762724f90eecfe7c734139
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 50, y: 60}

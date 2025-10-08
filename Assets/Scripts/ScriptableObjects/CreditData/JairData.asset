@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: JairData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: 7071114698667181887, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: -3701073061699354062, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: 3596634831536033378, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: 3315404162134412692, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: 3252774214092692726, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: -9206819123175689025, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: 7242017892072586498, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: -441143302094034061, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: -9040956463532118564, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  - {fileID: -8511423020043164131, guid: 52f651f0d7fa9c94da4e37fe4dbeebdd, type: 3}
+  removingMaskImages:
+  - {fileID: -8108087298825339427, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 6445504854528597161, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -1842265533415216931, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 6494163807964770028, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 8931448288278451822, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 5485075469419746179, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 1130318938080874368, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 8837036989228721260, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 7906702543450495029, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 8152094391121863223, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 275878317224518280, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -7301661318197727032, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 7211045046032787601, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -1226617414597458197, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -7715366097330220082, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -6618571118869972051, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -6860524274607173193, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 5332404387479770061, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -3882592642706136290, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -9143589466314863874, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: -2815077718793137133, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  - {fileID: 3592212356197555648, guid: 02956008207fd644493a55a5d17ada9e, type: 3}
+  studentName: Jair Paulino
+  studentRole: Artista 2D
+  hasDesc: 1
+  studentDescription: "Deu o maior n\xFAmero de cochilos na biblioteca j\xE1 visto."
+  studentImage: {fileID: 21300000, guid: 7ed482b60a21fda4e984471996790b63, type: 3}
+  cardImage: {fileID: -234869523535573978, guid: df496f1ca1368c04c82e03e30b817c76, type: 3}
+  linkedinURL: 
+  gitURL: 
+  instaURL: https://www.instagram.com/moraesjkk?igsh=dm9waXJ5dnN6N2Nk&utm_source=qr
+    }

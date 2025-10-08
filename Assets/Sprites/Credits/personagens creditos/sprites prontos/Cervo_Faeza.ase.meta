@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 9c18721d805117b42923485c9338c26b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332713931788
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Cervo_Faeza_Frame_0
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 61
+      width: 25
+      height: 47
+    spriteID: 278b61c885d3b70458aff1df63eea393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 61}
+  - name: Cervo_Faeza_Frame_1
+    originalName: 
+    pivot: {x: 0.4444444, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 178
+      width: 27
+      height: 47
+    spriteID: 4cfe3266b2fe03e48a4a316232642274
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 178}
+  - name: Cervo_Faeza_Frame_2
+    originalName: 
+    pivot: {x: 0.4137931, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 114
+      width: 29
+      height: 47
+    spriteID: e943f5030d6b5fa42a7b6737827a28c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 114}
+  - name: Cervo_Faeza_Frame_3
+    originalName: 
+    pivot: {x: 0.39999998, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 4
+      width: 30
+      height: 47
+    spriteID: e6bebf160fef08947b6129fd477f561f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 4}
+  - name: Cervo_Faeza_Frame_4
+    originalName: 
+    pivot: {x: 0.39999998, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 59
+      width: 30
+      height: 47
+    spriteID: becce4605de1530449ac012f54b84c6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 59}
+  - name: Cervo_Faeza_Frame_5
+    originalName: 
+    pivot: {x: 0.4137931, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 169
+      width: 29
+      height: 47
+    spriteID: 9ee714628bfe71943a2eb40014497ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 169}
+  - name: Cervo_Faeza_Frame_6
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 4
+      width: 26
+      height: 47
+    spriteID: e0ef385e1edbb6d428a14f9bd1f43870
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 4}
+  - name: Cervo_Faeza_Frame_7
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 116
+      width: 25
+      height: 47
+    spriteID: b77ff9831d0f96d4b93e85fbe4661447
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 116}
+  - name: Cervo_Faeza_Frame_8
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 171
+      width: 25
+      height: 47
+    spriteID: 257ae585815935c4480fb134fd1e6db5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 171}
+  - name: Cervo_Faeza_Frame_9
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.5319149}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 59
+      width: 25
+      height: 47
+    spriteID: b7560c8f5717a9348bc76965b269194d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 59}
+  - name: Cervo_Faeza_Frame_10
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 4
+      width: 25
+      height: 49
+    spriteID: 0839d7f09e91e9e40b7880c73d620151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 4}
+  - name: Cervo_Faeza_Frame_11
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.48076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 118
+      width: 25
+      height: 52
+    spriteID: 49dc81c23b7ad49479793385c15b9c3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 118}
+  - name: Cervo_Faeza_Frame_12
+    originalName: 
+    pivot: {x: 0.47999996, y: 0.4716981}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 64
+      width: 25
+      height: 53
+    spriteID: 8a88f78781f871a4a9f6864f40e58086
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 64}
+  - name: Cervo_Faeza_Frame_13
+    originalName: 
+    pivot: {x: 0.4285714, y: 0.48076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 4
+      width: 28
+      height: 52
+    spriteID: 05d5862befeb71541bb31a251c286ff8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 4}
+  - name: Cervo_Faeza_Frame_14
+    originalName: 
+    pivot: {x: 0.34285712, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 49
+    spriteID: 997dcb44cc398a04883a06f0054a1b6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Cervo_Faeza_Frame_15
+    originalName: 
+    pivot: {x: 0.35294116, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 34
+      height: 49
+    spriteID: e5ea7150a9d97c74e85693bb91fbbaf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 61}
+  - name: Cervo_Faeza_Frame_16
+    originalName: 
+    pivot: {x: 0.3636363, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 33
+      height: 49
+    spriteID: 5121b38bab0babe40b775164a289cba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Cervo_Faeza_Frame_17
+    originalName: 
+    pivot: {x: 0.39999998, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 175
+      width: 30
+      height: 49
+    spriteID: 47c00d4d248418843a396156b5566ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 175}
+  - name: Cervo_Faeza_Frame_18
+    originalName: 
+    pivot: {x: 0.4444444, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 125
+      width: 27
+      height: 49
+    spriteID: 051a3794628f9dd4584b8468e88ed3fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 125}
+  - name: Cervo_Faeza_Frame_19
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 182
+      width: 27
+      height: 49
+    spriteID: c3a775d2717502441866bc0a3ad769f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 182}
+  - name: Cervo_Faeza_Frame_20
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 4
+      width: 27
+      height: 49
+    spriteID: 959eefbd4cc17514584508edea1251d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 4}
+  - name: Cervo_Faeza_Frame_21
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 61
+      width: 27
+      height: 49
+    spriteID: 26f9432713803994388014f9c98c6c5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 61}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -456017353
+    name: Cervo_Faeza
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cervo_Faeza_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 47
+      spriteId: 278b61c885d3b70458aff1df63eea393
+    - name: Cervo_Faeza_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 23
+        y: 15
+        width: 27
+        height: 47
+      spriteId: 4cfe3266b2fe03e48a4a316232642274
+    - name: Cervo_Faeza_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 23
+        y: 15
+        width: 29
+        height: 47
+      spriteId: e943f5030d6b5fa42a7b6737827a28c7
+    - name: Cervo_Faeza_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 23
+        y: 15
+        width: 30
+        height: 47
+      spriteId: e6bebf160fef08947b6129fd477f561f
+    - name: Cervo_Faeza_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 23
+        y: 15
+        width: 30
+        height: 47
+      spriteId: becce4605de1530449ac012f54b84c6a
+    - name: Cervo_Faeza_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 23
+        y: 15
+        width: 29
+        height: 47
+      spriteId: 9ee714628bfe71943a2eb40014497ccc
+    - name: Cervo_Faeza_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 23
+        y: 15
+        width: 26
+        height: 47
+      spriteId: e0ef385e1edbb6d428a14f9bd1f43870
+    - name: Cervo_Faeza_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 47
+      spriteId: b77ff9831d0f96d4b93e85fbe4661447
+    - name: Cervo_Faeza_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 47
+      spriteId: 257ae585815935c4480fb134fd1e6db5
+    - name: Cervo_Faeza_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 47
+      spriteId: b7560c8f5717a9348bc76965b269194d
+    - name: Cervo_Faeza_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 49
+      spriteId: 0839d7f09e91e9e40b7880c73d620151
+    - name: Cervo_Faeza_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 52
+      spriteId: 49dc81c23b7ad49479793385c15b9c3c
+    - name: Cervo_Faeza_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 23
+        y: 15
+        width: 25
+        height: 53
+      spriteId: 8a88f78781f871a4a9f6864f40e58086
+    - name: Cervo_Faeza_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 23
+        y: 15
+        width: 28
+        height: 52
+      spriteId: 05d5862befeb71541bb31a251c286ff8
+    - name: Cervo_Faeza_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 23
+        y: 15
+        width: 35
+        height: 49
+      spriteId: 997dcb44cc398a04883a06f0054a1b6b
+    - name: Cervo_Faeza_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 23
+        y: 15
+        width: 34
+        height: 49
+      spriteId: e5ea7150a9d97c74e85693bb91fbbaf6
+    - name: Cervo_Faeza_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 23
+        y: 15
+        width: 33
+        height: 49
+      spriteId: 5121b38bab0babe40b775164a289cba0
+    - name: Cervo_Faeza_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 23
+        y: 15
+        width: 30
+        height: 49
+      spriteId: 47c00d4d248418843a396156b5566ae9
+    - name: Cervo_Faeza_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 23
+        y: 15
+        width: 27
+        height: 49
+      spriteId: 051a3794628f9dd4584b8468e88ed3fc
+    - name: Cervo_Faeza_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 19
+        y: 15
+        width: 27
+        height: 49
+      spriteId: c3a775d2717502441866bc0a3ad769f1
+    - name: Cervo_Faeza_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 19
+        y: 15
+        width: 27
+        height: 49
+      spriteId: 959eefbd4cc17514584508edea1251d5
+    - name: Cervo_Faeza_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 19
+        y: 15
+        width: 27
+        height: 49
+      spriteId: 26f9432713803994388014f9c98c6c5e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 70, y: 80}

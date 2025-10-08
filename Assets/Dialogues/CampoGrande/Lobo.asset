@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Lobo
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: " Ol\xE1 Quati! Que surpresa boa te ver por aqui! J\xE1 conhece a Concha
+      Ac\xFAstica Helena Meirelles?"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Oi, ainda n\xE3o! O que \xE9 exatamente a Concha Ac\xFAstica? E quem \xE9
+      Helena Meirelles?"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Ent\xE3o Quati, Helena Meirelles foi uma violeira, cantora e compositora
+      daqui mesmo no Mato Grosso do Sul!"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Desde jovem ela sempre se interessou pela m\xFAsica, e especialmente o
+      instrumento chamado \"viola caipira\"! "
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Sua fam\xEDlia n\xE3o permitiu que ela aprendesse a tocar mas ela seguiu
+      sua paix\xE3o mesmo assim!"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Muitos anos se passaram e ela apareceu na revista americana \"Guitar Player\"
+      oque fez com que ela fosse descoberta pela m\xEDdia!"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "A partir da\xED, aos 67 anos ela se apresentou em um teatro pela primeira
+      vez e come\xE7ou a gravar discos!"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Ela j\xE1 at\xE9 foi considerada um dos 30 maiores \xEDcones brasileiros
+      de guitarra e viol\xE3o pela revista Rolling Stone!"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Uau! Que incr\xEDvel! Mas e quanto a Concha Ac\xFAstica?"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Ah, Quati, a Concha Ac\xFAstica \xE9 um espa\xE7o super especial pra quem
+      gosta de m\xFAsica e cultura!"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "\xC9 tipo um palco ao ar livre, onde acontecem v\xE1rios eventos musicais
+      e culturais \u2014 shows, apresenta\xE7\xF5es, festivais, sabe?"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Poxa, que legal! E onde fica esse lugar? \xC9 dentro de algum pr\xE9dio?"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Na verdade, n\xE3o!"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "A concha ac\xFAstica fica em um espa\xE7o p\xFAblico, o Parque das Na\xE7\xF5es
+      Ind\xEDgenas, um lugar aberto que convida todo mundo a apreciar a arte junto
+      com a natureza."
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Que fant\xE1stico! Ent\xE3o n\xE3o \xE9 tipo uma galeria de arte nem um
+      cinema?"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "N\xE3o mesmo! Nada de exposi\xE7\xF5es de pintura ou filmes l\xE1. O foco
+      \xE9 m\xFAsica ao vivo, para a galera sentir a vibe do som e do ar livre."
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Perfeito pra quem ama cultura e um clima descontra\xEDdo!"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Ahhh, entendi! Parece o lugar ideal para um evento cultural, n\xE9?"
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Com certeza! Se estiver passeando pela cidade, d\xEA um pulo na Concha
+      Ac\xFAstica e aproveite."
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "\xC9 um espa\xE7o feito para todo mundo se conectar com a arte e a comunidade."
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: Obrigado pela dica!
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "De nada, Quati! Cultura e m\xFAsica s\xE3o a alma da cidade, e a Concha
+      Ac\xFAstica Helena Meirelles \xE9 o palco dessa festa ao ar livre."
+    skip: 0
+  - character:
+      characterName: "Lobo Guar\xE1"
+      characterIcon: {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+    line: "Vai l\xE1 curtir com o cora\xE7\xE3o aberto!"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

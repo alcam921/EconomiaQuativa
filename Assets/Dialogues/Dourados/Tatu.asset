@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Tatu
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -6325340659719344808, guid: 5e5a571506d054045bad4178f077a4cd, type: 3}
+    line: Fique Esperto Quati!!
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -6325340659719344808, guid: 5e5a571506d054045bad4178f077a4cd, type: 3}
+    line: Acima da igreja, ao lado do parque, tem um hotel e uma usina abandonada
+      ...
+  - character:
+      characterName: Tatu
+      characterIcon: {fileID: -6325340659719344808, guid: 5e5a571506d054045bad4178f077a4cd, type: 3}
+    line: "Dizem que esses lugares s\xE3o assombrados ..."
+  adjustCharacterIcon: {x: 68, y: -143, z: 0}

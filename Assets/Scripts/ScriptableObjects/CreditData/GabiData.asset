@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: GabiData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: 3798955708074117332, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 3468495150542927043, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 4622990212083888135, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 4869611078022557025, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 5325628700558825906, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 4419184264491405610, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: -1419124699261353042, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 6018392251546840231, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 2077046859449797219, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  - {fileID: 5693115303040155288, guid: ab145de1b5bebe4409c7978c0529579c, type: 3}
+  removingMaskImages:
+  - {fileID: 5535074717255826905, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 1959465800955962167, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 9153698591732603855, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -5450788333194532999, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 1233427426295952117, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -9088764971429474688, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 5480622246705107580, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -4132518197070481027, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -1488051023457445374, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 3064439611134570942, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 6166382756103547695, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 3604848173682090176, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -451598924350592336, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -5274989853787990493, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 5842001461948127048, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -1143040473906874309, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 2678297130233000739, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 4009270720760843197, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -7736378750091434841, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: 5596305131581503910, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -245095847153654286, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  - {fileID: -4857724400768667705, guid: 146449d9bf8a56f4282d0aff3491f697, type: 3}
+  studentName: Gabrieli Henrique de Oliveira
+  studentRole: "Organiza\xE7\xE3o e Documenta\xE7\xE3o do projeto. "
+  hasDesc: 1
+  studentDescription: "Respons\xE1vel pelo maior n\xFAmero de doces consumidos dentro
+    da sala (nenhum eletr\xF4nico sofreu com isso)."
+  studentImage: {fileID: 21300000, guid: a931ed042dff4c9429c7032778c3ee2d, type: 3}
+  cardImage: {fileID: 7060202615559163938, guid: 878e14a4f1ab9494e8ab4b56615c9fec, type: 3}
+  linkedinURL: 'https://www.linkedin.com/in/gabrieli-henrique-7b3654169 '
+  gitURL: https://github.com/h-gabrieli
+  instaURL: https://www.instagram.com/gabrieli.olive

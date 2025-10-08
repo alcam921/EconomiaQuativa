@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d968a59646b26408e9fbdb6af8fe13, type: 3}
+  m_Name: AlexandreData
+  m_EditorClassIdentifier: 
+  idleImages:
+  - {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: 3414434805123069476, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: -3719299723213663330, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: 4885704286081913758, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: -4114602277284348511, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: -1856785257966956260, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: 2224384873222438931, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: 4604994934689121869, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: 6067107181943718101, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  - {fileID: 5720702580171818322, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+  removingMaskImages:
+  - {fileID: 3565055600330085074, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 3348366341573611799, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -5640143468403544405, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -4664628198132559195, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 6200044835053863556, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 6023916850594195954, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -5062678114527125468, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 3980080034045461938, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 9137711075077212542, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 6941758439463325454, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -6872929138724208841, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 2132246600714801653, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 639056334345450007, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 8070898855553986437, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -7470251655974591289, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 9136763544352288396, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -7369357544086198077, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -851908337951222626, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: -3338209856044297878, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 8138096796494610648, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 6710271796474989746, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  - {fileID: 1277714536143998573, guid: 67060bbaeb70a0b4892dce87ea5e64d9, type: 3}
+  studentName: Alexandre
+  studentRole: Coordenador do Segmento de TI
+  hasDesc: 1
+  studentDescription: 
+  studentImage: {fileID: 21300000, guid: 9912e6bd455a0f646ae0b8be3ea53ace, type: 3}
+  cardImage: {fileID: 5164845207673065059, guid: d6b827797a33f804a9c05ad06ab583ec, type: 3}
+  linkedinURL: https://www.linkedin.com/in/alexandre-oliveira-840222245
+  gitURL: 
+  instaURL: https://www.instagram.com/alex_oliveira_ms

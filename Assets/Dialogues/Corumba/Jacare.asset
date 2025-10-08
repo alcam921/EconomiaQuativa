@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Jacare
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Bem vindo ao tradicional Banho de S\xE3o Jo\xE3o! A festa recebeu o t\xEDtulo
+      de Patrim\xF4nio Cultural e Imaterial do Brasil em 2021."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Ela acontece todo dia 23 de junho, nas margens do Rio Paraguai, e j\xE1
+      era reconhecida como patrim\xF4nio imaterial de Mato Grosso do Sul desde 2010.\r\n"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "O evento mistura cortejo de andores, batismo do santo nas \xE1guas, quadrilhas,
+      comidas t\xEDpicas e tamb\xE9m recebe influ\xEAncia boliviana, transformando
+      a zona portu\xE1ria em um grande arraial pantaneiro.\r\n"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "H\xE1 m\xFAsica dos cururueiros, noven\xE1rio, fogueira e prociss\xF5es.
+      Algumas fam\xEDlias mant\xEAm o banho caseiro, batizando a imagem de S\xE3o
+      Jo\xE3o em tanques ou cisternas.\r\n"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Na noite de S\xE3o Jo\xE3o, moradores e turistas descem a ladeira do Porto
+      Geral, passam sob os andores, caminham descal\xE7os e levam as imagens at\xE9
+      o rio. Fogos iluminam o c\xE9u, celebrando o santo que, segundo a B\xEDblia,
+      batizou Jesus."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Agora, o Banho de S\xE3o Jo\xE3o \xE9 protegido nacionalmente, com a\xE7\xF5es
+      para preservar sua hist\xF3ria, f\xE9 e tradi\xE7\xE3o no cora\xE7\xE3o do
+      Pantanal.\r\n"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: Ah, e temos um jogo especial aqui! Venha jogar com a gente
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

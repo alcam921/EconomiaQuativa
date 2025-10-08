@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Jacare 1
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: 'Maquinista '
+      characterIcon: {fileID: 5432759077780121092, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+    line: "Sua primeira parada ser\xE1 na cidade morena, mais conhecida como Campo
+      Grande!"
+    skip: 0
+  - character:
+      characterName: 'Maquinista '
+      characterIcon: {fileID: 5432759077780121092, guid: f26c08c91f2ae054f86dbf1e01f2e67e, type: 3}
+    line: "Assim que tiver visitado todos os pontos tur\xEDsticos, volte para o trem
+      para conseguir visitar as outras cidades do nosso querido Mato Grasso Do Sul"
+    skip: 0
+  adjustCharacterIcon: {x: 51, y: -110, z: 0}

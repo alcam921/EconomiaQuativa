@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: AraraAzul
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Bem vindo ao Porto de Corumb\xE1, tamb\xE9m conhecido como Porto Geral,
+      \xE9 um dos maiores portos fluviais do Brasil e o maior da regi\xE3o Centro-Oeste.
+      \r\n"
+    skip: 0
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: 'Foi por ele que chegaram a riqueza, progresso, imigrantes e a cultura,
+      vindos principalmente da Europa e do Rio de Janeiro.
+
+'
+    skip: 0
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Com a navega\xE7\xE3o pelo Rio Paraguai e pela Bacia do Prata, Corumb\xE1
+      se conectou ao Brasil e ao mundo, recebendo bens, servi\xE7os e influ\xEAncias
+      culturais que transformaram a cidade."
+    skip: 0
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Essa integra\xE7\xE3o rompeu o isolamento da regi\xE3o e trouxe uma imers\xE3o
+      cultural e social \xFAnica.\r\n"
+    skip: 0
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Hoje, o porto \xE9 um importante ponto tur\xEDstico, onde atracam embarca\xE7\xF5es
+      de pescadores e pequenos comerciantes. \r\n"
+    skip: 0
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: "Ao seu redor, o conjunto hist\xF3rico do Porto Geral preserva a mem\xF3ria
+      e a identidade dessa cidade pantaneira.\r\n"
+    skip: 0
+  - character:
+      characterName: Arara Azul
+      characterIcon: {fileID: 21300000, guid: fbbbc729923fe2c4f97728a9bfc9459d, type: 3}
+    line: ' Ah, e temos um jogo especial aqui! Venha jogar com a gente!'
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

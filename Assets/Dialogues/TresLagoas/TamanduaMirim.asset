@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: TamanduaMirim
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Seja bem-vindo(a) a Tr\xEAs Lagoas, a cidade das hist\xF3rias encantadoras.\r\n"
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Prepare-se, porque a cada ponto tur\xEDstico voc\xEA vai descobrir curiosidades,
+      lendas locais e ainda poder\xE1 jogar minijogos cheios de desafios.\r\n"
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: Minijogos? Isso ficou ainda mais empolgante!
+  - character:
+      characterName: "Tamandu\xE1-Mirim"
+      characterIcon: {fileID: 2178118312707753206, guid: 51305e60feb981446a5697bbcf24964f, type: 3}
+    line: "Ent\xE3o n\xE3o perca tempo, Quati. Sua jornada pela cidade come\xE7a
+      agora!"
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

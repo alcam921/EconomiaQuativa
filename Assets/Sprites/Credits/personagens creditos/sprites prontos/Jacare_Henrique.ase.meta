@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: c9dfc3667e5965c418266cc7052ed675
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332714026599
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Jacare_Henrique_Frame_0
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 116
+      width: 41
+      height: 48
+    spriteID: 89a42ae9af2e9c54abd7111e5eb94135
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 116}
+  - name: Jacare_Henrique_Frame_1
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 172
+      width: 41
+      height: 48
+    spriteID: bc81e5f8fba0473418250a03c5745453
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 172}
+  - name: Jacare_Henrique_Frame_2
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 228
+      width: 41
+      height: 48
+    spriteID: 3c25837e9edd6664992ec8fd4bab114d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 228}
+  - name: Jacare_Henrique_Frame_3
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 4
+      width: 42
+      height: 48
+    spriteID: 03fabe984eba5c142a58821df182bf28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 4}
+  - name: Jacare_Henrique_Frame_4
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 60
+      width: 42
+      height: 48
+    spriteID: 5c1d2eccc33091b46b2276dc3f0a39b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 60}
+  - name: Jacare_Henrique_Frame_5
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 284
+      width: 41
+      height: 48
+    spriteID: 813545c828a1ae540a7a7320b0567252
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 284}
+  - name: Jacare_Henrique_Frame_6
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 340
+      width: 41
+      height: 48
+    spriteID: a4066195895dcf44b88ed3adc83e702b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 340}
+  - name: Jacare_Henrique_Frame_7
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 396
+      width: 41
+      height: 48
+    spriteID: b78cd61cf14b50b4a954664bb3351abe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 396}
+  - name: Jacare_Henrique_Frame_8
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 452
+      width: 41
+      height: 48
+    spriteID: ad68c1ef1b5feeb44a712a89bf23bccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 452}
+  - name: Jacare_Henrique_Frame_9
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 63
+      width: 41
+      height: 48
+    spriteID: 15e70a21213c07b41b484c673c719260
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 63}
+  - name: Jacare_Henrique_Frame_10
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.49019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 4
+      width: 41
+      height: 51
+    spriteID: 859ddb1c33c3594478c100281cbeb356
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 4}
+  - name: Jacare_Henrique_Frame_11
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.47169808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 359
+      width: 41
+      height: 53
+    spriteID: b87ce3dd4c80a314d9ffe48dca752cd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 359}
+  - name: Jacare_Henrique_Frame_12
+    originalName: 
+    pivot: {x: 0.5853659, y: 0.46296299}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 297
+      width: 41
+      height: 54
+    spriteID: 63bdb9af8194f6240a13ce8ac7ef814c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 297}
+  - name: Jacare_Henrique_Frame_13
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.47169808}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 44
+      height: 53
+    spriteID: 1303aa4bf80a661469644f013f4aa2f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 178}
+  - name: Jacare_Henrique_Frame_14
+    originalName: 
+    pivot: {x: 0.47058827, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 51
+      height: 50
+    spriteID: 277fa8e550aac424ebeff3ff9c99e349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Jacare_Henrique_Frame_15
+    originalName: 
+    pivot: {x: 0.48000002, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 50
+      height: 50
+    spriteID: a4a985835da3ee346b7887b4cf532ed4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: Jacare_Henrique_Frame_16
+    originalName: 
+    pivot: {x: 0.48979592, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 120
+      width: 49
+      height: 50
+    spriteID: 95d992022a27bfe41ba973e2fb04dc2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 120}
+  - name: Jacare_Henrique_Frame_17
+    originalName: 
+    pivot: {x: 0.5217392, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 239
+      width: 46
+      height: 50
+    spriteID: 1fd3f133e7ff84a48a64e13903ac7560
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 239}
+  - name: Jacare_Henrique_Frame_18
+    originalName: 
+    pivot: {x: 0.5581395, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 420
+      width: 43
+      height: 50
+    spriteID: b5735e4ffe573de4ebe907c264f8f665
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 420}
+  - name: Jacare_Henrique_Frame_19
+    originalName: 
+    pivot: {x: 0.631579, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 119
+      width: 38
+      height: 50
+    spriteID: 091f42d064a583647a6ab696e79aa023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 119}
+  - name: Jacare_Henrique_Frame_20
+    originalName: 
+    pivot: {x: 0.631579, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 177
+      width: 38
+      height: 50
+    spriteID: bdeed52df93ac6245934554cae3d0af2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 177}
+  - name: Jacare_Henrique_Frame_21
+    originalName: 
+    pivot: {x: 0.631579, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 235
+      width: 38
+      height: 50
+    spriteID: 6ca3f62df39116c41ad7130969eccf91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 235}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -308264300
+    name: Jacare_Henrique
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Jacare_Henrique_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: 89a42ae9af2e9c54abd7111e5eb94135
+    - name: Jacare_Henrique_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: bc81e5f8fba0473418250a03c5745453
+    - name: Jacare_Henrique_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: 3c25837e9edd6664992ec8fd4bab114d
+    - name: Jacare_Henrique_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 5
+        width: 42
+        height: 48
+      spriteId: 03fabe984eba5c142a58821df182bf28
+    - name: Jacare_Henrique_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 6
+        y: 5
+        width: 42
+        height: 48
+      spriteId: 5c1d2eccc33091b46b2276dc3f0a39b8
+    - name: Jacare_Henrique_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: 813545c828a1ae540a7a7320b0567252
+    - name: Jacare_Henrique_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: a4066195895dcf44b88ed3adc83e702b
+    - name: Jacare_Henrique_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: b78cd61cf14b50b4a954664bb3351abe
+    - name: Jacare_Henrique_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: ad68c1ef1b5feeb44a712a89bf23bccf
+    - name: Jacare_Henrique_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 48
+      spriteId: 15e70a21213c07b41b484c673c719260
+    - name: Jacare_Henrique_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 51
+      spriteId: 859ddb1c33c3594478c100281cbeb356
+    - name: Jacare_Henrique_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 53
+      spriteId: b87ce3dd4c80a314d9ffe48dca752cd3
+    - name: Jacare_Henrique_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 6
+        y: 5
+        width: 41
+        height: 54
+      spriteId: 63bdb9af8194f6240a13ce8ac7ef814c
+    - name: Jacare_Henrique_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 6
+        y: 5
+        width: 44
+        height: 53
+      spriteId: 1303aa4bf80a661469644f013f4aa2f3
+    - name: Jacare_Henrique_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 6
+        y: 5
+        width: 51
+        height: 50
+      spriteId: 277fa8e550aac424ebeff3ff9c99e349
+    - name: Jacare_Henrique_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 6
+        y: 5
+        width: 50
+        height: 50
+      spriteId: a4a985835da3ee346b7887b4cf532ed4
+    - name: Jacare_Henrique_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 6
+        y: 5
+        width: 49
+        height: 50
+      spriteId: 95d992022a27bfe41ba973e2fb04dc2b
+    - name: Jacare_Henrique_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 6
+        y: 5
+        width: 46
+        height: 50
+      spriteId: 1fd3f133e7ff84a48a64e13903ac7560
+    - name: Jacare_Henrique_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 6
+        y: 5
+        width: 43
+        height: 50
+      spriteId: b5735e4ffe573de4ebe907c264f8f665
+    - name: Jacare_Henrique_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 5
+        width: 38
+        height: 50
+      spriteId: 091f42d064a583647a6ab696e79aa023
+    - name: Jacare_Henrique_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 5
+        width: 38
+        height: 50
+      spriteId: bdeed52df93ac6245934554cae3d0af2
+    - name: Jacare_Henrique_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 6
+        y: 5
+        width: 38
+        height: 50
+      spriteId: 6ca3f62df39116c41ad7130969eccf91
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 60, y: 60}

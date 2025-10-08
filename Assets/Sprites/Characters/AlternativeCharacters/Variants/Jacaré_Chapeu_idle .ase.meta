@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: b39f824bb91ee4e4da145b4aa92a0619
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638935623107883329
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: "Jacar\xE9_Chapeu_idle _Frame_0"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 4
+      width: 41
+      height: 54
+    spriteID: 07f2120b5a7c1014ab3bdd27394cef76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 4}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_1"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 4
+      width: 41
+      height: 54
+    spriteID: c85090587f5c442479a942e7090d83c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 4}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_2"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 67
+      width: 41
+      height: 54
+    spriteID: be118d3f79bd1d44eb7a80eea1dec4fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 67}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_3"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 67
+      width: 41
+      height: 54
+    spriteID: 15069f363f8c7724ba891206099fad06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 67}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_4"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.46363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 41
+      height: 55
+    spriteID: c809cbb6dfc24d94493292c1b33702c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_5"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.46363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 4
+      width: 41
+      height: 55
+    spriteID: ec6cef23a7269e14e847116e3414eb58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 4}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_6"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.46363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 4
+      width: 41
+      height: 55
+    spriteID: 5822c047f0601d447b243d6f0dc5ecf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 4}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_7"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 67
+      width: 41
+      height: 54
+    spriteID: 2f8392104be31ef4b87d1911727c9535
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 67}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_8"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 67
+      width: 41
+      height: 54
+    spriteID: 1640f46ab7a1b1847ba9c923b7dbba5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 67}
+  - name: "Jacar\xE9_Chapeu_idle _Frame_9"
+    originalName: 
+    pivot: {x: 0.58536583, y: 0.47222224}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 67
+      width: 41
+      height: 54
+    spriteID: 6a980210a62d8c04bb5c0081e2645b23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 67}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1003545962
+    name: "Jacar\xE9_Chapeu_idle "
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: "Jacar\xE9_Chapeu_idle _Frame_0"
+      frameIndex: 0
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: 07f2120b5a7c1014ab3bdd27394cef76
+    - name: "Jacar\xE9_Chapeu_idle _Frame_1"
+      frameIndex: 1
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: c85090587f5c442479a942e7090d83c6
+    - name: "Jacar\xE9_Chapeu_idle _Frame_2"
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: be118d3f79bd1d44eb7a80eea1dec4fa
+    - name: "Jacar\xE9_Chapeu_idle _Frame_3"
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: 15069f363f8c7724ba891206099fad06
+    - name: "Jacar\xE9_Chapeu_idle _Frame_4"
+      frameIndex: 4
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 55
+      spriteId: c809cbb6dfc24d94493292c1b33702c7
+    - name: "Jacar\xE9_Chapeu_idle _Frame_5"
+      frameIndex: 5
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 55
+      spriteId: ec6cef23a7269e14e847116e3414eb58
+    - name: "Jacar\xE9_Chapeu_idle _Frame_6"
+      frameIndex: 6
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 55
+      spriteId: 5822c047f0601d447b243d6f0dc5ecf3
+    - name: "Jacar\xE9_Chapeu_idle _Frame_7"
+      frameIndex: 7
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: 2f8392104be31ef4b87d1911727c9535
+    - name: "Jacar\xE9_Chapeu_idle _Frame_8"
+      frameIndex: 8
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: 1640f46ab7a1b1847ba9c923b7dbba5b
+    - name: "Jacar\xE9_Chapeu_idle _Frame_9"
+      frameIndex: 9
+      cellRect:
+        x: 1
+        y: 5
+        width: 41
+        height: 54
+      spriteId: 6a980210a62d8c04bb5c0081e2645b23
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 50, y: 61}

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a28e618edb74000458859a16806bacbe, type: 3}
+  m_Name: Jacare
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Ol\xE1, seja bem vindo \xE0 casa do artes\xE3o, meu amigo! \xC9 uma joia
+      das m\xE3os do povo daqui, bem no cora\xE7\xE3o de Campo Grande!"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Casa do Artes\xE3o? Pensei que era uma vila ou uma exposi\xE7\xE3o de
+      arte..."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "\xC9 quase isso mesmo! \xC9 um casar\xE3o antigo, de 1918, todo restaurado."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Ali dentro tem de tudo: cer\xE2mica, pe\xE7as ind\xEDgenas, tecelagem,
+      cestaria, madeira entalhada... Tudo feito por artes\xE3os do Mato Grosso do
+      Sul inteiro!"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Rapaz, e eu achei que artesanato era s\xF3 lembrancinha de viagem..."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Lembre-se de que cada cantinho da Casa do Artes\xE3o guarda um peda\xE7o
+      de hist\xF3rias incr\xEDveis do nosso estado."
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Ah, ent\xE3o \xE9 um lugar pra ver e aprender! Gostei!"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Isso mesmo! A Casa do Artes\xE3o \xE9 onde a tradi\xE7\xE3o mora."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Ela valoriza o artista local, ajuda a manter viva a cultura dos povos
+      origin\xE1rios e ainda \xE9 parada obrigat\xF3ria para quem quer conhecer de
+      verdade o esp\xEDrito sul-mato-grossense."
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Agora entendi! \xC9 mais que uma casa... \xE9 um museu de gente viva!"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Falou bonito, Quati! E olha, se tiver tempo, volta l\xE1 com calma. Cada
+      cantinho tem uma hist\xF3ria."
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "E cuidado: quem entra, sempre sai com uma pe\xE7a debaixo do bra\xE7o
+      e o cora\xE7\xE3o cheio de orgulho!"
+    skip: 0
+  - character:
+      characterName: Quati
+      characterIcon: {fileID: -1767254145825396893, guid: ba0cec8ec0750ad41aac110756666bf7, type: 3}
+    line: "Pode deixar! J\xE1 t\xF4 at\xE9 pensando em levar uma gamela de madeira
+      pra minha casa!"
+    skip: 0
+  - character:
+      characterName: "Jacar\xE9"
+      characterIcon: {fileID: -8123084043307822711, guid: c5ed40b20426528479c99ece6924ae70, type: 3}
+    line: "Hehe esse \xE9 o espirito! Obrigado e volte sempre!"
+    skip: 0
+  adjustCharacterIcon: {x: 71, y: -143, z: 0}

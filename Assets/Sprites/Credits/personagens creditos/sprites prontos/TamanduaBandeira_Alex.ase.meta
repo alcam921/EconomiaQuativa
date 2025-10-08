@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 48988ecdcea711640baf61dac233c836
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 42
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638944332714026599
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: TamanduaBandeira_Alex_Frame_0
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 60
+      width: 43
+      height: 50
+    spriteID: 02d9a70538e373745a469c423e6cfc79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 60}
+  - name: TamanduaBandeira_Alex_Frame_1
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 118
+      width: 43
+      height: 50
+    spriteID: 6e8b660fb3006994e89e3ec770c7fb18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 118}
+  - name: TamanduaBandeira_Alex_Frame_2
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 176
+      width: 43
+      height: 50
+    spriteID: 86769a9df047f134f9fe8cde811fccd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 176}
+  - name: TamanduaBandeira_Alex_Frame_3
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 234
+      width: 43
+      height: 50
+    spriteID: 9c41f550f25462f47975bca6bbc42a66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 234}
+  - name: TamanduaBandeira_Alex_Frame_4
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 292
+      width: 43
+      height: 50
+    spriteID: 6e97f64ed544ed345bdb3afdb55a9223
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 292}
+  - name: TamanduaBandeira_Alex_Frame_5
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 350
+      width: 43
+      height: 50
+    spriteID: db5c905c2f2b95b46a49bbb2e3ad3c78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 350}
+  - name: TamanduaBandeira_Alex_Frame_6
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 408
+      width: 43
+      height: 50
+    spriteID: 3c2f6445f6c62914eaa4d8483bb28be2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 408}
+  - name: TamanduaBandeira_Alex_Frame_7
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 4
+      width: 43
+      height: 50
+    spriteID: d74e092968f83644bbf2947f9c201215
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 4}
+  - name: TamanduaBandeira_Alex_Frame_8
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 62
+      width: 43
+      height: 50
+    spriteID: da879b908a9b55c449cb19ad06880646
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 62}
+  - name: TamanduaBandeira_Alex_Frame_9
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 120
+      width: 43
+      height: 50
+    spriteID: 43067008b445ba34e97aed1af2144f3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 120}
+  - name: TamanduaBandeira_Alex_Frame_10
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.48076922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 417
+      width: 43
+      height: 52
+    spriteID: 154fc2c176488224a888c235c00b703f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 417}
+  - name: TamanduaBandeira_Alex_Frame_11
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 235
+      width: 43
+      height: 55
+    spriteID: 8f40d0a8897e0d94d8f493cf39c4d6fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 235}
+  - name: TamanduaBandeira_Alex_Frame_12
+    originalName: 
+    pivot: {x: 0.5813953, y: 0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 298
+      width: 43
+      height: 55
+    spriteID: 8198d0643f8d0f8438d46eb2f2a32ec7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 298}
+  - name: TamanduaBandeira_Alex_Frame_13
+    originalName: 
+    pivot: {x: 0.54347825, y: 0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 60
+      width: 46
+      height: 55
+    spriteID: 001e07b528deaa54092da140c8afeb5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 60}
+  - name: TamanduaBandeira_Alex_Frame_14
+    originalName: 
+    pivot: {x: 0.47169808, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 53
+      height: 48
+    spriteID: c47e34b56e57ee44d8de367f2a959c06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: TamanduaBandeira_Alex_Frame_15
+    originalName: 
+    pivot: {x: 0.48076922, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 123
+      width: 52
+      height: 48
+    spriteID: bfbcaa09978a8ce46832ae962844369b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 123}
+  - name: TamanduaBandeira_Alex_Frame_16
+    originalName: 
+    pivot: {x: 0.49019608, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 179
+      width: 51
+      height: 48
+    spriteID: 16ce2540aa3292a4d8e5daf9a6da56af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 179}
+  - name: TamanduaBandeira_Alex_Frame_17
+    originalName: 
+    pivot: {x: 0.5208333, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 361
+      width: 48
+      height: 48
+    spriteID: a439d998425af4b428bae99d9f5f4365
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 361}
+  - name: TamanduaBandeira_Alex_Frame_18
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 45
+      height: 48
+    spriteID: fb95f02fe0e74bd43a37583fc95adec8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 4}
+  - name: TamanduaBandeira_Alex_Frame_19
+    originalName: 
+    pivot: {x: 0.625, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 178
+      width: 40
+      height: 48
+    spriteID: b4097066a4ae39b42afd6b7cb98301cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 178}
+  - name: TamanduaBandeira_Alex_Frame_20
+    originalName: 
+    pivot: {x: 0.625, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 234
+      width: 40
+      height: 48
+    spriteID: 876a7c81aeae2fd4eade82ed258503df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 234}
+  - name: TamanduaBandeira_Alex_Frame_21
+    originalName: 
+    pivot: {x: 0.625, y: 0.5208333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 290
+      width: 40
+      height: 48
+    spriteID: 85bb1a6d0ea98b5409c39b7895ed8905
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 290}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1766312596
+    name: TamanduaBandeira_Alex
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: TamanduaBandeira_Alex_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 02d9a70538e373745a469c423e6cfc79
+    - name: TamanduaBandeira_Alex_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 6e8b660fb3006994e89e3ec770c7fb18
+    - name: TamanduaBandeira_Alex_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 86769a9df047f134f9fe8cde811fccd8
+    - name: TamanduaBandeira_Alex_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 9c41f550f25462f47975bca6bbc42a66
+    - name: TamanduaBandeira_Alex_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 6e97f64ed544ed345bdb3afdb55a9223
+    - name: TamanduaBandeira_Alex_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: db5c905c2f2b95b46a49bbb2e3ad3c78
+    - name: TamanduaBandeira_Alex_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 3c2f6445f6c62914eaa4d8483bb28be2
+    - name: TamanduaBandeira_Alex_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: d74e092968f83644bbf2947f9c201215
+    - name: TamanduaBandeira_Alex_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: da879b908a9b55c449cb19ad06880646
+    - name: TamanduaBandeira_Alex_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 50
+      spriteId: 43067008b445ba34e97aed1af2144f3b
+    - name: TamanduaBandeira_Alex_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 52
+      spriteId: 154fc2c176488224a888c235c00b703f
+    - name: TamanduaBandeira_Alex_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 55
+      spriteId: 8f40d0a8897e0d94d8f493cf39c4d6fb
+    - name: TamanduaBandeira_Alex_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 5
+        width: 43
+        height: 55
+      spriteId: 8198d0643f8d0f8438d46eb2f2a32ec7
+    - name: TamanduaBandeira_Alex_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 5
+        width: 46
+        height: 55
+      spriteId: 001e07b528deaa54092da140c8afeb5f
+    - name: TamanduaBandeira_Alex_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 5
+        width: 53
+        height: 48
+      spriteId: c47e34b56e57ee44d8de367f2a959c06
+    - name: TamanduaBandeira_Alex_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 5
+        width: 52
+        height: 48
+      spriteId: bfbcaa09978a8ce46832ae962844369b
+    - name: TamanduaBandeira_Alex_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 5
+        y: 5
+        width: 51
+        height: 48
+      spriteId: 16ce2540aa3292a4d8e5daf9a6da56af
+    - name: TamanduaBandeira_Alex_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 5
+        y: 5
+        width: 48
+        height: 48
+      spriteId: a439d998425af4b428bae99d9f5f4365
+    - name: TamanduaBandeira_Alex_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 5
+        y: 5
+        width: 45
+        height: 48
+      spriteId: fb95f02fe0e74bd43a37583fc95adec8
+    - name: TamanduaBandeira_Alex_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 5
+        width: 40
+        height: 48
+      spriteId: b4097066a4ae39b42afd6b7cb98301cd
+    - name: TamanduaBandeira_Alex_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 5
+        y: 5
+        width: 40
+        height: 48
+      spriteId: 876a7c81aeae2fd4eade82ed258503df
+    - name: TamanduaBandeira_Alex_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 5
+        width: 40
+        height: 48
+      spriteId: 85bb1a6d0ea98b5409c39b7895ed8905
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 60, y: 60}
